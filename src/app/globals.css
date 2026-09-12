@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fdf8f2;
+  --surface: #ffffff;
+  --foreground: #3d2b1f;
+  --muted: #7a6a5c;
+  --border: #ead9c4;
+  --accent: #c1694f;
+  --accent-hover: #a8543c;
+  --accent-soft: #f3e2d3;
+  --sage: #7c8c6e;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-soft: var(--accent-soft);
+  --color-sage: var(--sage);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+.prose-crochet h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--foreground);
+}
+
+.prose-crochet h3 {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.prose-crochet p {
+  margin-bottom: 1rem;
+  line-height: 1.75;
+  color: var(--foreground);
+}
+
+.prose-crochet ul,
+.prose-crochet ol {
+  margin: 1rem 0 1.25rem 1.5rem;
+  line-height: 1.75;
+}
+
+.prose-crochet ul {
+  list-style: disc;
+}
+
+.prose-crochet ol {
+  list-style: decimal;
+}
+
+.prose-crochet strong {
+  color: var(--accent-hover);
+}
+
+.prose-crochet a {
+  color: var(--accent);
+  text-decoration: underline;
+}
