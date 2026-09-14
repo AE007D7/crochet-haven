@@ -11,11 +11,7 @@ export default function PrivacyPolicyPage() {
       <h1 className="font-display text-3xl mb-6">Privacy Policy</h1>
       <div className="prose-crochet">
         <p>
-          <em>
-            Last updated: [date]. This is placeholder text — review and adapt
-            it (or have a lawyer review it) to your actual data practices
-            before publishing.
-          </em>
+          <em>Last updated: September 14, 2026.</em>
         </p>
 
         <h2>Overview</h2>

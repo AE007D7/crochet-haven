@@ -11,9 +11,7 @@ export default function TermsPage() {
       <h1 className="font-display text-3xl mb-6">Terms of Use</h1>
       <div className="prose-crochet">
         <p>
-          <em>
-            Placeholder text — review before publishing.
-          </em>
+          <em>Last updated: September 14, 2026.</em>
         </p>
 
         <h2>Use of Patterns</h2>
