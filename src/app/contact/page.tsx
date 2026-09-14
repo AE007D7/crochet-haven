@@ -16,7 +16,10 @@ export default function ContactPage() {
         </p>
         <p>
           Email us at{" "}
-          <a href="mailto:hello@chtatou.com">hello@chtatou.com</a>.
+          <a href="mailto:chtatoucochet@gmail.com">
+            chtatoucochet@gmail.com
+          </a>
+          .
         </p>
       </div>
     </div>
