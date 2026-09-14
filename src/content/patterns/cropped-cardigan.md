@@ -4,7 +4,7 @@ description: "Free cropped cardigan crochet pattern worked in a simple mesh stit
 category: "clothing"
 difficulty: "Intermediate"
 date: "2026-05-10"
-image: "/images/patterns/placeholder-cardigan.svg"
+image: "/images/patterns/real/cropped-cardigan.png"
 yarnWeight: "DK (Size 3)"
 hookSize: "4.5mm (G-7)"
 estimatedTime: "10-14 hours"

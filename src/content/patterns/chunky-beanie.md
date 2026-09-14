@@ -4,7 +4,7 @@ description: "Free chunky beanie crochet pattern using bulky yarn — a warm, st
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-06-15"
-image: "/images/patterns/placeholder-beanie.svg"
+image: "/images/patterns/real/chunky-beanie.png"
 yarnWeight: "Bulky (Size 5)"
 hookSize: "6.5mm (K-10.5)"
 estimatedTime: "1.5-2 hours"

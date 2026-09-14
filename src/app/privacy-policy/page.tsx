@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "Privacy Policy for Crochet Haven.",
+  description: "Privacy Policy for Chtatou.",
 };
 
 export default function PrivacyPolicyPage() {
@@ -20,7 +20,7 @@ export default function PrivacyPolicyPage() {
 
         <h2>Overview</h2>
         <p>
-          Crochet Haven ("we", "us") respects your privacy. This policy
+          Chtatou ("we", "us") respects your privacy. This policy
           explains what information is collected when you visit this site and
           how it is used.
         </p>

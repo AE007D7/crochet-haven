@@ -2,16 +2,16 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About",
-  description: "About Crochet Haven — free patterns and tutorials for makers of every skill level.",
+  description: "About Chtatou — free patterns and tutorials for makers of every skill level.",
 };
 
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-2xl px-4 sm:px-6 py-14">
-      <h1 className="font-display text-3xl mb-6">About Crochet Haven</h1>
+      <h1 className="font-display text-3xl mb-6">About Chtatou</h1>
       <div className="prose-crochet">
         <p>
-          Crochet Haven is a home for free, clearly written crochet patterns —
+          Chtatou is a home for free, clearly written crochet patterns —
           from your very first amigurumi to more involved wearable pieces.
           Every pattern is written out in full, with stitch counts, materials
           lists, and beginner-friendly notes so you never feel lost partway

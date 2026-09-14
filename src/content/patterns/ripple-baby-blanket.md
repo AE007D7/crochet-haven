@@ -4,7 +4,7 @@ description: "Free ripple stitch baby blanket crochet pattern — a soft, wavy-t
 category: "blankets"
 difficulty: "Easy"
 date: "2026-08-25"
-image: "/images/patterns/placeholder-baby-blanket.svg"
+image: "/images/patterns/real/ripple-baby-blanket.png"
 yarnWeight: "DK (Size 3)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "8-10 hours"

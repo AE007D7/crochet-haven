@@ -15,20 +15,20 @@ const displayFont = Fraunces({
   weight: ["500", "600", "700"],
 });
 
-const SITE_URL = "https://example-crochet-haven.com";
+const SITE_URL = "https://chtatou.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Crochet Haven — Free Crochet Patterns & Tutorials",
-    template: "%s | Crochet Haven",
+    default: "Chtatou — Free Crochet Patterns & Tutorials",
+    template: "%s | Chtatou",
   },
   description:
     "Free, tested crochet patterns for amigurumi, blankets, clothing, and accessories, plus beginner-friendly tutorials.",
   openGraph: {
     type: "website",
-    siteName: "Crochet Haven",
-    title: "Crochet Haven — Free Crochet Patterns & Tutorials",
+    siteName: "Chtatou",
+    title: "Chtatou — Free Crochet Patterns & Tutorials",
     description:
       "Free, tested crochet patterns for amigurumi, blankets, clothing, and accessories, plus beginner-friendly tutorials.",
   },

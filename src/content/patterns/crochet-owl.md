@@ -4,7 +4,7 @@ description: "Free amigurumi owl crochet pattern with simple color-block wings a
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-08-20"
-image: "/images/patterns/placeholder-owl.svg"
+image: "/images/patterns/real/crochet-owl.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "2-3 hours"

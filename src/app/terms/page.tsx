@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Terms of Use",
-  description: "Terms of Use for Crochet Haven.",
+  description: "Terms of Use for Chtatou.",
 };
 
 export default function TermsPage() {
@@ -18,7 +18,7 @@ export default function TermsPage() {
 
         <h2>Use of Patterns</h2>
         <p>
-          Patterns published on Crochet Haven are provided for personal,
+          Patterns published on Chtatou are provided for personal,
           non-commercial use. You may sell finished items made from our
           patterns, but you may not resell, redistribute, or republish the
           written patterns themselves without permission.

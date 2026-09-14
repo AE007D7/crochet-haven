@@ -10,7 +10,7 @@ export default function Header() {
             🧶
           </span>
           <span className="font-display text-xl text-foreground tracking-tight">
-            Crochet Haven
+            Chtatou
           </span>
         </Link>
 

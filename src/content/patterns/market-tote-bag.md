@@ -4,7 +4,7 @@ description: "Free crochet tote bag pattern made with cotton yarn — a durable,
 category: "accessories"
 difficulty: "Easy"
 date: "2026-03-18"
-image: "/images/patterns/placeholder-tote.svg"
+image: "/images/patterns/real/market-tote-bag.png"
 yarnWeight: "Worsted Cotton (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "5-7 hours"

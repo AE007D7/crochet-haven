@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllPatternSlugs, CATEGORIES } from "@/lib/patterns";
 
-const SITE_URL = "https://example-crochet-haven.com";
+const SITE_URL = "https://chtatou.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = [

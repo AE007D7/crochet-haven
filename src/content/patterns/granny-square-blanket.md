@@ -4,7 +4,7 @@ description: "Free granny square blanket crochet pattern with a modern colorway 
 category: "blankets"
 difficulty: "Easy"
 date: "2026-07-20"
-image: "/images/patterns/placeholder-blanket.svg"
+image: "/images/patterns/real/granny-square-blanket.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "5.0mm (H-8)"
 estimatedTime: "15-20 hours"

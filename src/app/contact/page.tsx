@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Get in touch with Crochet Haven.",
+  description: "Get in touch with Chtatou.",
 };
 
 export default function ContactPage() {
@@ -16,10 +16,7 @@ export default function ContactPage() {
         </p>
         <p>
           Email us at{" "}
-          <a href="mailto:hello@crochethaven.example">
-            hello@crochethaven.example
-          </a>{" "}
-          <em>(replace with your real contact email before launch)</em>.
+          <a href="mailto:hello@chtatou.com">hello@chtatou.com</a>.
         </p>
       </div>
     </div>

@@ -4,7 +4,7 @@ description: "Free amigurumi bunny crochet pattern with step-by-step instruction
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-08-01"
-image: "/images/patterns/placeholder-amigurumi.svg"
+image: "/images/patterns/real/amigurumi-bunny.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "3-4 hours"

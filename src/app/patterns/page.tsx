@@ -6,7 +6,7 @@ import AdSlot from "@/components/AdSlot";
 export const metadata: Metadata = {
   title: "All Patterns",
   description:
-    "Browse every free crochet pattern on Crochet Haven — amigurumi, blankets, clothing, accessories, and tutorials.",
+    "Browse every free crochet pattern on Chtatou — amigurumi, blankets, clothing, accessories, and tutorials.",
 };
 
 export default function PatternsPage() {

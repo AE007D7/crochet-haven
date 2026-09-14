@@ -1,13 +1,18 @@
 import Link from "next/link";
-import Image from "next/image";
 import { getAllPatternSummaries, CATEGORIES } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
 import AdSlot from "@/components/AdSlot";
+import HeroSlider from "@/components/HeroSlider";
 
 export default function Home() {
   const patterns = getAllPatternSummaries();
   const featured = patterns.slice(0, 3);
   const rest = patterns.slice(3);
+  const heroSlides = patterns.slice(0, 6).map((p) => ({
+    slug: p.slug,
+    title: p.title,
+    image: p.image,
+  }));
 
   return (
     <div>
@@ -41,16 +46,7 @@ export default function Home() {
               </Link>
             </div>
           </div>
-          <div className="relative aspect-square rounded-3xl overflow-hidden border border-border bg-surface">
-            <Image
-              src="/images/patterns/placeholder-hero.svg"
-              alt="Crochet Haven"
-              fill
-              className="object-cover"
-              sizes="(min-width: 1024px) 50vw, 100vw"
-              priority
-            />
-          </div>
+          <HeroSlider slides={heroSlides} />
         </div>
       </section>
 

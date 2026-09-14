@@ -4,7 +4,7 @@ description: "Free infinity scarf crochet pattern using a simple shell stitch â€
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-08-28"
-image: "/images/patterns/placeholder-scarf.svg"
+image: "/images/patterns/real/infinity-scarf.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "5.5mm (I-9)"
 estimatedTime: "2-3 hours"

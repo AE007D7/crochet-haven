@@ -10,7 +10,7 @@ export default function Footer() {
             <span className="text-xl" aria-hidden>
               🧶
             </span>
-            <span className="font-display text-lg">Crochet Haven</span>
+            <span className="font-display text-lg">Chtatou</span>
           </div>
           <p className="text-sm text-muted leading-relaxed">
             Free crochet patterns, tutorials, and inspiration for makers of
@@ -68,7 +68,7 @@ export default function Footer() {
 
       <div className="border-t border-border">
         <p className="mx-auto max-w-6xl px-4 sm:px-6 py-4 text-xs text-muted">
-          &copy; {new Date().getFullYear()} Crochet Haven. All patterns are
+          &copy; {new Date().getFullYear()} Chtatou. All patterns are
           for personal use unless stated otherwise.
         </p>
       </div>
