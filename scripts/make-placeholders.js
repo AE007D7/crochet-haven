@@ -12,6 +12,11 @@ const items = [
   { file: "placeholder-baby-blanket.svg", bg: "#f0e3e6", accent: "#c1694f", label: "Ripple Baby Blanket" },
   { file: "placeholder-scarf.svg", bg: "#e6ded2", accent: "#7c8c6e", label: "Infinity Scarf" },
   { file: "placeholder-strawberry.svg", bg: "#f6e2dd", accent: "#c1694f", label: "Crochet Strawberry" },
+  { file: "placeholder-pumpkin.svg", bg: "#f3e2d3", accent: "#c1694f", label: "Amigurumi Pumpkin" },
+  { file: "placeholder-ghost-garland.svg", bg: "#e9e2d0", accent: "#8a7458", label: "Ghost Garland" },
+  { file: "placeholder-witch-hat.svg", bg: "#e6ded2", accent: "#3d2b1f", label: "Witch Hat" },
+  { file: "placeholder-black-cat.svg", bg: "#ece3d2", accent: "#3d2b1f", label: "Black Cat Amigurumi" },
+  { file: "placeholder-spiderweb.svg", bg: "#f0e3e6", accent: "#3d2b1f", label: "Spiderweb Coasters" },
   { file: "placeholder-hero.svg", bg: "#f3e2d3", accent: "#c1694f", label: "Crochet Haven" },
 ];
 
