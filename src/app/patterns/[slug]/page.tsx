@@ -24,6 +24,9 @@ export async function generateMetadata(
   return {
     title: pattern.title,
     description: pattern.description,
+    alternates: {
+      canonical: `/patterns/${slug}`,
+    },
     openGraph: {
       title: pattern.title,
       description: pattern.description,
@@ -31,6 +34,8 @@ export async function generateMetadata(
     },
   };
 }
+
+const SITE_URL = "https://chtatou.com";
 
 export default async function PatternPage(
   props: PageProps<"/patterns/[slug]">
@@ -43,8 +48,56 @@ export default async function PatternPage(
     .filter((p) => p.category === pattern.category && p.slug !== pattern.slug)
     .slice(0, 3);
 
+  const pageUrl = `${SITE_URL}/patterns/${slug}`;
+  const imageUrl = pattern.image.startsWith("http")
+    ? pattern.image
+    : `${SITE_URL}${pattern.image}`;
+
+  const howToJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    name: pattern.title,
+    description: pattern.description,
+    image: imageUrl,
+    totalTime: undefined,
+    estimatedCost: undefined,
+    supply: [
+      pattern.yarnWeight ? { "@type": "HowToSupply", name: pattern.yarnWeight } : null,
+    ].filter(Boolean),
+    tool: [
+      pattern.hookSize ? { "@type": "HowToTool", name: pattern.hookSize } : null,
+    ].filter(Boolean),
+  };
+
+  const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Patterns", item: `${SITE_URL}/patterns` },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: pattern.category,
+        item: `${SITE_URL}/categories/${pattern.category}`,
+      },
+      { "@type": "ListItem", position: 3, name: pattern.title, item: pageUrl },
+    ],
+  };
+
   return (
     <article className="mx-auto max-w-3xl px-4 sm:px-6 py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(howToJsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(breadcrumbJsonLd).replace(/</g, "\\u003c"),
+        }}
+      />
       <nav className="text-sm text-muted mb-6">
         <Link href="/patterns" className="hover:text-accent">
           Patterns

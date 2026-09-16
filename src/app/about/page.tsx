@@ -3,6 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About",
   description: "About Chtatou — free patterns and tutorials for makers of every skill level.",
+  alternates: {
+    canonical: "/about",
+  },
 };
 
 export default function AboutPage() {

@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: "All Patterns",
   description:
     "Browse every free crochet pattern on Chtatou — amigurumi, blankets, clothing, accessories, and tutorials.",
+  alternates: {
+    canonical: "/patterns",
+  },
 };
 
 export default function PatternsPage() {
