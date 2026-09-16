@@ -4,7 +4,7 @@ description: "Free crochet ghost garland pattern — a string of cute, simple am
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-ghost-garland.svg"
+image: "/images/patterns/real/ghost-garland.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "2-3 hours for 5 ghosts"

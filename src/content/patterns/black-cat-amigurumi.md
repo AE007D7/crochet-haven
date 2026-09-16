@@ -4,7 +4,7 @@ description: "Free amigurumi black cat crochet pattern with an arched back and p
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-black-cat.svg"
+image: "/images/patterns/real/black-cat-amigurumi.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "2-3 hours"

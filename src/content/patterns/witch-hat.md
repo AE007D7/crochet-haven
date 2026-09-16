@@ -4,7 +4,7 @@ description: "Free crochet witch hat pattern — a mini decorative hat perfect f
 category: "accessories"
 difficulty: "Easy"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-witch-hat.svg"
+image: "/images/patterns/real/witch-hat.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "1-2 hours"

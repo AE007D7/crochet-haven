@@ -4,7 +4,7 @@ description: "Free amigurumi pumpkin crochet pattern — a quick, cheerful Hallo
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-pumpkin.svg"
+image: "/images/patterns/real/amigurumi-pumpkin.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "1-1.5 hours"

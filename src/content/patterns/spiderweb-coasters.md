@@ -4,7 +4,7 @@ description: "Free crochet spiderweb coaster pattern — quick, flat motifs that
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-spiderweb.svg"
+image: "/images/patterns/real/spiderweb-coasters.png"
 yarnWeight: "Worsted Cotton (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "30-45 minutes per coaster"
