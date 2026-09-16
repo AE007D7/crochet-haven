@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#f3e2d3"/>
+  <circle cx="400" cy="260" r="130" fill="none" stroke="#c1694f" stroke-width="6" stroke-dasharray="14 10" opacity="0.55"/>
+  <circle cx="400" cy="260" r="90" fill="none" stroke="#c1694f" stroke-width="6" stroke-dasharray="10 8" opacity="0.7"/>
+  <circle cx="400" cy="260" r="50" fill="#c1694f" opacity="0.85"/>
+  <text x="400" y="460" font-family="Georgia, serif" font-size="34" fill="#c1694f" text-anchor="middle">Christmas Stocking</text>
+</svg>

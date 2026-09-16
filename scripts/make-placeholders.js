@@ -17,6 +17,11 @@ const items = [
   { file: "placeholder-witch-hat.svg", bg: "#e6ded2", accent: "#3d2b1f", label: "Witch Hat" },
   { file: "placeholder-black-cat.svg", bg: "#ece3d2", accent: "#3d2b1f", label: "Black Cat Amigurumi" },
   { file: "placeholder-spiderweb.svg", bg: "#f0e3e6", accent: "#3d2b1f", label: "Spiderweb Coasters" },
+  { file: "placeholder-christmas-gnome.svg", bg: "#e6ded2", accent: "#7c8c6e", label: "Christmas Gnome" },
+  { file: "placeholder-christmas-stocking.svg", bg: "#f3e2d3", accent: "#c1694f", label: "Christmas Stocking" },
+  { file: "placeholder-snowman.svg", bg: "#eef1ee", accent: "#7c8c6e", label: "Amigurumi Snowman" },
+  { file: "placeholder-holly-wreath.svg", bg: "#e9e2d0", accent: "#7c8c6e", label: "Holly Wreath Ornament" },
+  { file: "placeholder-tree-garland.svg", bg: "#e6ded2", accent: "#7c8c6e", label: "Christmas Tree Garland" },
   { file: "placeholder-hero.svg", bg: "#f3e2d3", accent: "#c1694f", label: "Crochet Haven" },
 ];
 
