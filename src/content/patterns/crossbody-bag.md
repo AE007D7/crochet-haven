@@ -4,7 +4,7 @@ description: "Free crochet crossbody bag pattern with an adjustable strap — a 
 category: "accessories"
 difficulty: "Easy"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-crossbody-bag.svg"
+image: "/images/patterns/real/crossbody-bag.png"
 yarnWeight: "Worsted Cotton (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "6-8 hours"

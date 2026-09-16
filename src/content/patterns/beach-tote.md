@@ -4,7 +4,7 @@ description: "Free crochet beach tote pattern using a breezy mesh stitch — a l
 category: "accessories"
 difficulty: "Easy"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-beach-tote.svg"
+image: "/images/patterns/real/beach-tote.png"
 yarnWeight: "Worsted Cotton (Size 4)"
 hookSize: "5.0mm (H-8)"
 estimatedTime: "5-7 hours"

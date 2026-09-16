@@ -4,7 +4,7 @@ description: "Free crochet coin purse pattern — a quick zippered pouch perfect
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-coin-purse.svg"
+image: "/images/patterns/real/coin-purse-pouch.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "1-2 hours"

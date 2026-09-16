@@ -4,7 +4,7 @@ description: "Free crochet drawstring backpack pattern — a simple cinch-top ba
 category: "accessories"
 difficulty: "Easy"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-drawstring-backpack.svg"
+image: "/images/patterns/real/drawstring-backpack.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.5mm (G-7)"
 estimatedTime: "5-6 hours"

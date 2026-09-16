@@ -4,7 +4,7 @@ description: "Free crochet clutch purse pattern with a textured stitch and fold-
 category: "accessories"
 difficulty: "Intermediate"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-clutch-purse.svg"
+image: "/images/patterns/real/crochet-clutch-purse.png"
 yarnWeight: "DK (Size 3)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "4-5 hours"
