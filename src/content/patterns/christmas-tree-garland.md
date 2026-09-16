@@ -4,7 +4,7 @@ description: "Free crochet Christmas tree garland pattern — a string of small 
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-tree-garland.svg"
+image: "/images/patterns/real/christmas-tree-garland.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "2-3 hours for a garland of 7"

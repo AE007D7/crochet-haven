@@ -4,7 +4,7 @@ description: "Free amigurumi Christmas gnome crochet pattern — a cozy, faceles
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-christmas-gnome.svg"
+image: "/images/patterns/real/christmas-gnome.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "2-3 hours"

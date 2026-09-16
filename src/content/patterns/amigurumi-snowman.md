@@ -4,7 +4,7 @@ description: "Free amigurumi snowman crochet pattern with a knit-look scarf and 
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-snowman.svg"
+image: "/images/patterns/real/amigurumi-snowman.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "2-3 hours"

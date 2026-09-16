@@ -4,7 +4,7 @@ description: "Free crochet Christmas stocking pattern — a classic textured sto
 category: "blankets"
 difficulty: "Easy"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-christmas-stocking.svg"
+image: "/images/patterns/real/christmas-stocking.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "5.0mm (H-8)"
 estimatedTime: "4-6 hours"

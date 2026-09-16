@@ -4,7 +4,7 @@ description: "Free crochet holly wreath ornament pattern — a small flat wreath
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-16"
-image: "/images/patterns/placeholder-holly-wreath.svg"
+image: "/images/patterns/real/holly-wreath-ornament.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "45-60 minutes"
