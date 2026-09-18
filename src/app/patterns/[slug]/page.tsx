@@ -9,6 +9,15 @@ import {
 } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
 import AdSlot from "@/components/AdSlot";
+import ArticleActions from "@/components/ArticleActions";
+
+function formatDate(iso: string) {
+  return new Date(iso).toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+}
 
 export function generateStaticParams() {
   return getAllPatternSlugs().map((slug) => ({ slug }));
@@ -114,7 +123,22 @@ export default async function PatternPage(
       <h1 className="font-display text-3xl sm:text-4xl mb-3">
         {pattern.title}
       </h1>
+      <p className="text-sm text-muted mb-4">
+        By Chtatou &middot; {formatDate(pattern.date)} &middot; in{" "}
+        <Link
+          href={`/categories/${pattern.category}`}
+          className="hover:text-accent capitalize"
+        >
+          {pattern.category}
+        </Link>
+      </p>
       <p className="text-muted text-lg mb-6">{pattern.description}</p>
+
+      <ArticleActions
+        pageUrl={pageUrl}
+        imageUrl={imageUrl}
+        title={pattern.title}
+      />
 
       <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-8">
         <Image
@@ -149,6 +173,27 @@ export default async function PatternPage(
           {pattern.readingTime}
         </span>
       </div>
+
+      {pattern.toc.length > 2 && (
+        <nav
+          aria-label="Jump to section"
+          className="mb-10 rounded-2xl border border-border bg-surface p-5 print:hidden"
+        >
+          <p className="font-display text-lg mb-3">Jump to</p>
+          <ul className="grid gap-x-6 gap-y-1.5 text-sm sm:grid-cols-2">
+            {pattern.toc.map((item) => (
+              <li key={item.id}>
+                <a
+                  href={`#${item.id}`}
+                  className="text-muted hover:text-accent transition-colors"
+                >
+                  {item.text}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )}
 
       <AdSlot variant="in-content" className="mb-10" />
 

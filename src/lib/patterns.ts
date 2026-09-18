@@ -54,9 +54,15 @@ export interface PatternFrontmatter {
   estimatedTime?: string;
 }
 
+export interface TocItem {
+  id: string;
+  text: string;
+}
+
 export interface Pattern extends PatternFrontmatter {
   slug: string;
   contentHtml: string;
+  toc: TocItem[];
   readingTime: string;
 }
 
@@ -103,14 +109,46 @@ export async function getPatternBySlug(slug: string): Promise<Pattern | null> {
   const { data, content } = matter(fileContents);
 
   const processed = await remark().use(remarkHtml).process(content);
-  const contentHtml = processed.toString();
+  const { html: contentHtml, toc } = addHeadingIds(processed.toString());
 
   return {
     slug,
     ...(data as PatternFrontmatter),
     contentHtml,
+    toc,
     readingTime: readingTime(content).text,
   };
+}
+
+/**
+ * Adds id attributes to every <h2> so the article can link to its sections,
+ * and returns those h2s as a table of contents. remark-html leaves headings
+ * without ids, so this post-processes the generated HTML.
+ */
+function addHeadingIds(html: string): { html: string; toc: TocItem[] } {
+  const toc: TocItem[] = [];
+  const used = new Set<string>();
+
+  const withIds = html.replace(
+    /<h2>([\s\S]*?)<\/h2>/g,
+    (_match, inner: string) => {
+      const text = inner.replace(/<[^>]+>/g, "").trim();
+      let id =
+        text
+          .toLowerCase()
+          .replace(/&[a-z#0-9]+;/g, "")
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/^-+|-+$/g, "") || "section";
+      let n = 2;
+      const base = id;
+      while (used.has(id)) id = `${base}-${n++}`;
+      used.add(id);
+      toc.push({ id, text });
+      return `<h2 id="${id}">${inner}</h2>`;
+    }
+  );
+
+  return { html: withIds, toc };
 }
 
 export function getAllPatternSlugs(): string[] {
