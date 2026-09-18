@@ -4,7 +4,7 @@ description: "Free amigurumi candy corn crochet pattern in classic yellow, orang
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-candy-corn.svg"
+image: "/images/patterns/real/candy-corn-amigurumi.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "45-60 minutes"

@@ -4,7 +4,7 @@ description: "Free crochet witch broom pattern — a simple mini broom ornament 
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-witch-broom.svg"
+image: "/images/patterns/real/witch-broom-ornament.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "45-60 minutes"

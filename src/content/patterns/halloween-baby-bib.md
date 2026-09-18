@@ -4,7 +4,7 @@ description: "Free crochet Halloween baby bib pattern with a pumpkin motif — a
 category: "clothing"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-halloween-bib.svg"
+image: "/images/patterns/real/halloween-baby-bib.png"
 yarnWeight: "DK Cotton (Size 3)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "1-2 hours"

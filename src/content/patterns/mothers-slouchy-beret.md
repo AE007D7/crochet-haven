@@ -4,7 +4,7 @@ description: "Free crochet slouchy beret pattern for women — a soft, oversized
 category: "accessories"
 difficulty: "Easy"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-mothers-beret.svg"
+image: "/images/patterns/real/mothers-slouchy-beret.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "5.0mm (H-8)"
 estimatedTime: "2-3 hours"

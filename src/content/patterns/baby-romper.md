@@ -4,7 +4,7 @@ description: "Free crochet baby romper pattern with adjustable button straps —
 category: "clothing"
 difficulty: "Intermediate"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-baby-romper.svg"
+image: "/images/patterns/real/baby-romper.png"
 yarnWeight: "DK Cotton (Size 3)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "5-7 hours"

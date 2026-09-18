@@ -4,7 +4,7 @@ description: "Free crochet baby swaddle blanket pattern in a soft shell stitch â
 category: "blankets"
 difficulty: "Easy"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-baby-swaddle.svg"
+image: "/images/patterns/real/baby-swaddle-blanket.png"
 yarnWeight: "DK Cotton (Size 3)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "8-10 hours"

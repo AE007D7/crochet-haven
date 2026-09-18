@@ -4,7 +4,7 @@ description: "Free crochet baby beanie pattern in soft DK cotton — a quick, co
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-baby-beanie.svg"
+image: "/images/patterns/real/baby-beanie-hat.png"
 yarnWeight: "DK Cotton (Size 3)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "1-1.5 hours"

@@ -4,7 +4,7 @@ description: "Free crochet bat ornament pattern — a small flat bat motif perfe
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-bat-ornament.svg"
+image: "/images/patterns/real/bat-ornament.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "30-45 minutes"

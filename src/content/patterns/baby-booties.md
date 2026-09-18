@@ -4,7 +4,7 @@ description: "Free crochet baby booties pattern with a simple strap closure — 
 category: "accessories"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-baby-booties.svg"
+image: "/images/patterns/real/baby-booties.png"
 yarnWeight: "DK Cotton (Size 3)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "1-2 hours"

@@ -4,7 +4,7 @@ description: "Free amigurumi green monster crochet pattern with a fuzzy tuft and
 category: "amigurumi"
 difficulty: "Intermediate"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-green-monster.svg"
+image: "/images/patterns/real/amigurumi-green-monster.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "3-4 hours"

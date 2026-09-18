@@ -4,7 +4,7 @@ description: "Free amigurumi spider crochet pattern with eight simple legs — a
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-spider.svg"
+image: "/images/patterns/real/amigurumi-spider.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "1-1.5 hours"

@@ -4,7 +4,7 @@ description: "Free crochet trick-or-treat bag pattern with a sturdy handle and p
 category: "accessories"
 difficulty: "Easy"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-trick-or-treat-bag.svg"
+image: "/images/patterns/real/trick-or-treat-bag.png"
 yarnWeight: "Worsted Cotton (Size 4)"
 hookSize: "4.5mm (G-7)"
 estimatedTime: "4-5 hours"

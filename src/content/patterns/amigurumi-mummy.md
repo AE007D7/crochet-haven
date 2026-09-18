@@ -4,7 +4,7 @@ description: "Free amigurumi mummy crochet pattern wrapped in crocheted bandage 
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-mummy.svg"
+image: "/images/patterns/real/amigurumi-mummy.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "2-3 hours"

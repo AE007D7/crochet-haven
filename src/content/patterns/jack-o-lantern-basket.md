@@ -4,7 +4,7 @@ description: "Free crochet jack-o-lantern basket pattern — a sturdy pumpkin-sh
 category: "accessories"
 difficulty: "Easy"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-jack-o-lantern-basket.svg"
+image: "/images/patterns/real/jack-o-lantern-basket.png"
 yarnWeight: "Worsted Cotton (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "3-4 hours"

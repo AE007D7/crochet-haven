@@ -4,7 +4,7 @@ description: "Free amigurumi skeleton crochet pattern with simple bone details â
 category: "amigurumi"
 difficulty: "Intermediate"
 date: "2026-09-18"
-image: "/images/patterns/placeholder-skeleton.svg"
+image: "/images/patterns/real/amigurumi-skeleton.png"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "3.5mm (E-4)"
 estimatedTime: "3-4 hours"
