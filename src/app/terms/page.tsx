@@ -27,7 +27,7 @@ export default function TermsPage() {
 
         <h2>No Warranty</h2>
         <p>
-          Patterns are provided "as is." We do our best to keep them accurate,
+          Patterns are provided &quot;as is.&quot; We do our best to keep them accurate,
           but not every pattern has been test-crocheted, and we make no
           guarantees about fit, accuracy, or suitability for a particular
           purpose. Please make a gauge swatch and adjust as needed.

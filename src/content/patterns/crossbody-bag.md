@@ -1,7 +1,7 @@
 ---
 title: "Crochet Crossbody Bag Pattern (Easy Everyday Bag)"
 description: "Free crochet crossbody bag pattern with an adjustable strap — a compact, sturdy everyday bag worked in single crochet."
-category: "accessories"
+category: "bags"
 difficulty: "Easy"
 date: "2026-09-16"
 image: "/images/patterns/real/crossbody-bag.png"

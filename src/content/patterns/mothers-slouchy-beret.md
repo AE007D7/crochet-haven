@@ -1,7 +1,7 @@
 ---
 title: "Crochet Slouchy Beret Pattern (Easy Women's Hat)"
 description: "Free crochet slouchy beret pattern for women — a soft, oversized adult hat that pairs perfectly with the baby beanie for a matching set."
-category: "accessories"
+category: "wearables"
 difficulty: "Easy"
 date: "2026-09-18"
 image: "/images/patterns/real/mothers-slouchy-beret.png"

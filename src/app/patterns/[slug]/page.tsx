@@ -109,17 +109,19 @@ export default async function PatternPage(
           __html: JSON.stringify(breadcrumbJsonLd).replace(/</g, "\\u003c"),
         }}
       />
-      <nav className="text-sm text-muted mb-6">
-        <Link href="/patterns" className="hover:text-accent">
-          Patterns
+      <nav aria-label="Breadcrumb" className="text-sm text-muted mb-6">
+        <Link href="/" className="hover:text-accent">
+          Home
         </Link>
         <span className="mx-2">/</span>
         <Link
           href={`/categories/${pattern.category}`}
-          className="hover:text-accent capitalize"
+          className="hover:text-accent"
         >
-          {pattern.category}
+          {getCategoryLabel(pattern.category)}
         </Link>
+        <span className="mx-2">/</span>
+        <span aria-current="page">{pattern.title}</span>
       </nav>
 
       <h1 className="font-display text-3xl sm:text-4xl mb-3">
@@ -129,9 +131,9 @@ export default async function PatternPage(
         By Chtatou &middot; {formatDate(pattern.date)} &middot; in{" "}
         <Link
           href={`/categories/${pattern.category}`}
-          className="hover:text-accent capitalize"
+          className="hover:text-accent"
         >
-          {pattern.category}
+          {getCategoryLabel(pattern.category)}
         </Link>
       </p>
       <p className="text-muted text-lg mb-6">{pattern.description}</p>
@@ -212,7 +214,7 @@ export default async function PatternPage(
       {related.length > 0 && (
         <section className="mt-16">
           <h2 className="font-display text-2xl mb-5">
-            More {pattern.category} patterns
+            More in {getCategoryLabel(pattern.category)}
           </h2>
           <div className="grid gap-6 sm:grid-cols-2">
             {related.map((p) => (

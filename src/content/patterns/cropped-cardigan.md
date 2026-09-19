@@ -1,7 +1,7 @@
 ---
 title: "Crochet Cardigan Pattern (Easy Cropped Mesh Cardigan)"
 description: "Free cropped cardigan crochet pattern worked in a simple mesh stitch — a lightweight, open-front layer that's perfect for transitional weather."
-category: "clothing"
+category: "wearables"
 difficulty: "Intermediate"
 date: "2026-09-12"
 image: "/images/patterns/real/cropped-cardigan.png"

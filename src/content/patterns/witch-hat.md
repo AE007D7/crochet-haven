@@ -1,7 +1,7 @@
 ---
 title: "Crochet Witch Hat Pattern (Easy Halloween Mini Hat Decor)"
 description: "Free crochet witch hat pattern — a mini decorative hat with a bent tip and hat band, perfect for Halloween wreaths, garlands, or topping a pumpkin display."
-category: "accessories"
+category: "home-decor"
 difficulty: "Easy"
 date: "2026-09-16"
 image: "/images/patterns/real/witch-hat.png"

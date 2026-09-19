@@ -1,7 +1,7 @@
 ---
 title: "Crochet Christmas Stocking Pattern (Easy Holiday Decor)"
 description: "Free crochet Christmas stocking pattern — a classic textured stocking perfect for mantel decor or filling with small gifts."
-category: "blankets"
+category: "home-decor"
 difficulty: "Easy"
 date: "2026-09-16"
 image: "/images/patterns/real/christmas-stocking.png"

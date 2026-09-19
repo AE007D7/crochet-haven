@@ -21,12 +21,12 @@ export default function AboutPage() {
           through a project.
         </p>
         <p>
-          Whether you picked up a hook for the first time last week or you've
+          Whether you picked up a hook for the first time last week or you&apos;ve
           been crocheting for years, our goal is the same: patterns that are
           honest about difficulty, clear about materials, and genuinely fun to
           make.
         </p>
-        <h2>What you'll find here</h2>
+        <h2>What you&apos;ll find here</h2>
         <ul>
           <li>Amigurumi toys and characters</li>
           <li>Blankets, throws, and granny square projects</li>
@@ -46,7 +46,7 @@ export default function AboutPage() {
           little different.
         </p>
         <p>
-          New patterns are added regularly. If there's something you'd love to
+          New patterns are added regularly. If there&apos;s something you&apos;d love to
           see a pattern for, get in touch on the{" "}
           <a href="/contact">contact page</a>.
         </p>

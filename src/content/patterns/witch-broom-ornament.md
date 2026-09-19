@@ -1,7 +1,7 @@
 ---
 title: "Crochet Witch Broom Ornament Pattern (Easy Halloween Decor)"
 description: "Free crochet witch broom pattern — a simple mini broom ornament perfect for wreaths, garlands, or a witch costume prop."
-category: "accessories"
+category: "home-decor"
 difficulty: "Beginner"
 date: "2026-09-18"
 image: "/images/patterns/real/witch-broom-ornament.png"

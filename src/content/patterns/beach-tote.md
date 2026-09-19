@@ -1,7 +1,7 @@
 ---
 title: "Crochet Beach Tote Pattern (Easy Summer Bag)"
 description: "Free crochet beach tote pattern using a breezy mesh stitch — a lightweight, oversized bag perfect for the beach or pool."
-category: "accessories"
+category: "bags"
 difficulty: "Easy"
 date: "2026-09-16"
 image: "/images/patterns/real/beach-tote.png"

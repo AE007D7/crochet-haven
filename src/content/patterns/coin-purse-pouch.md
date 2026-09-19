@@ -1,7 +1,7 @@
 ---
 title: "Crochet Coin Purse Pattern (Easy Small Zipper Pouch)"
 description: "Free crochet coin purse pattern — a quick zippered pouch perfect for change, earbuds, or small trinkets, and a great stash-buster."
-category: "accessories"
+category: "bags"
 difficulty: "Beginner"
 date: "2026-09-16"
 image: "/images/patterns/real/coin-purse-pouch.png"

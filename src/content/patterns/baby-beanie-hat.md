@@ -1,7 +1,7 @@
 ---
 title: "Crochet Baby Beanie Pattern (Easy Newborn Hat)"
 description: "Free crochet baby beanie pattern in soft DK cotton — a quick, cozy hat perfect for newborns or as a baby shower gift."
-category: "accessories"
+category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-18"
 image: "/images/patterns/real/baby-beanie-hat.png"

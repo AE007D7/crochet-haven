@@ -1,7 +1,7 @@
 ---
 title: "Crochet Tote Bag Pattern (Easy Market Bag for Beginners)"
 description: "Free crochet tote bag pattern made with cotton yarn — a durable, roomy market bag that's strong enough for groceries and cute enough for everyday."
-category: "accessories"
+category: "bags"
 difficulty: "Easy"
 date: "2026-09-12"
 image: "/images/patterns/real/market-tote-bag.png"

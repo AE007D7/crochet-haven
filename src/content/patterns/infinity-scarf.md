@@ -1,7 +1,7 @@
 ---
 title: "Crochet Infinity Scarf Pattern (Easy One-Skein Project)"
 description: "Free infinity scarf crochet pattern using a simple shell stitch — a cozy one-skein project that works up in an afternoon."
-category: "accessories"
+category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-12"
 image: "/images/patterns/real/infinity-scarf.png"

@@ -1,7 +1,7 @@
 ---
 title: "Crochet Baby Romper Pattern (Easy Overall Onesie)"
 description: "Free crochet baby romper pattern with adjustable button straps — a soft, simple onesie perfect for photos or everyday wear."
-category: "clothing"
+category: "wearables"
 difficulty: "Intermediate"
 date: "2026-09-18"
 image: "/images/patterns/real/baby-romper.png"

@@ -15,7 +15,7 @@ export default function ContactPage() {
       <div className="prose-crochet">
         <p>
           Have a question about a pattern, found a mistake, or want to suggest
-          a new project? We'd love to hear from you.
+          a new project? We&apos;d love to hear from you.
         </p>
         <p>
           Email us at{" "}

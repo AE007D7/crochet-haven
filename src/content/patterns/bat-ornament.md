@@ -1,7 +1,7 @@
 ---
 title: "Crochet Bat Ornament Pattern (Easy Halloween Decor)"
 description: "Free crochet bat ornament pattern — a small flat bat motif perfect for garlands, gift tags, or window decorations."
-category: "accessories"
+category: "home-decor"
 difficulty: "Beginner"
 date: "2026-09-18"
 image: "/images/patterns/real/bat-ornament.png"

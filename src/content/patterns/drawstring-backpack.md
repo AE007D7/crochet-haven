@@ -1,7 +1,7 @@
 ---
 title: "Crochet Drawstring Backpack Pattern (Easy Cinch Bag)"
 description: "Free crochet drawstring backpack pattern — a simple cinch-top bag with two shoulder cords, great for a beginner bag project."
-category: "accessories"
+category: "bags"
 difficulty: "Easy"
 date: "2026-09-16"
 image: "/images/patterns/real/drawstring-backpack.png"

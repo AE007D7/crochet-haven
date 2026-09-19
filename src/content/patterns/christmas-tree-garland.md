@@ -1,7 +1,7 @@
 ---
 title: "Crochet Christmas Tree Garland Pattern (Easy Holiday Decor)"
 description: "Free crochet Christmas tree garland pattern — a string of small triangle tree motifs, perfect for mantels, trees, or window displays."
-category: "accessories"
+category: "home-decor"
 difficulty: "Beginner"
 date: "2026-09-16"
 image: "/images/patterns/real/christmas-tree-garland.png"

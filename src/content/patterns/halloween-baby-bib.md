@@ -1,7 +1,7 @@
 ---
 title: "Crochet Halloween Baby Bib Pattern (Easy Pumpkin Bib)"
 description: "Free crochet Halloween baby bib pattern with a pumpkin motif — a quick, adorable seasonal accessory for baby's first Halloween."
-category: "clothing"
+category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-18"
 image: "/images/patterns/real/halloween-baby-bib.png"

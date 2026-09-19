@@ -1,7 +1,7 @@
 ---
 title: "Crochet Holly Wreath Ornament Pattern (Easy Christmas Decor)"
 description: "Free crochet holly wreath ornament pattern — a small flat wreath motif with holly leaves and berries, perfect for tree decor or gift tags."
-category: "accessories"
+category: "home-decor"
 difficulty: "Beginner"
 date: "2026-09-16"
 image: "/images/patterns/real/holly-wreath-ornament.png"

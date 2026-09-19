@@ -23,7 +23,7 @@ export default function Footer() {
             Categories
           </h3>
           <ul className="space-y-2 text-sm text-muted">
-            {CATEGORIES.map((c) => (
+            {CATEGORIES.filter((c) => c.core).map((c) => (
               <li key={c.slug}>
                 <Link
                   href={`/categories/${c.slug}`}

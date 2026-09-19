@@ -1,7 +1,7 @@
 ---
 title: "Crochet Beanie Pattern (Easy Chunky Ribbed Hat)"
 description: "Free chunky beanie crochet pattern using bulky yarn — a warm, stretchy hat you can finish in under two hours, great for beginners."
-category: "accessories"
+category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-12"
 image: "/images/patterns/real/chunky-beanie.png"

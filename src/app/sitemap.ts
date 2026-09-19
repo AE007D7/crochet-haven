@@ -1,5 +1,9 @@
 import type { MetadataRoute } from "next";
-import { getAllPatternSummaries, CATEGORIES } from "@/lib/patterns";
+import {
+  getAllPatternSummaries,
+  CATEGORIES,
+  MIN_INDEXABLE_CATEGORY,
+} from "@/lib/patterns";
 import { SITE_URL } from "@/lib/site";
 
 // lastModified is taken from each article's real publication date rather than
@@ -19,12 +23,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     (route) => ({ url: `${SITE_URL}${route}` })
   );
 
-  const categoryRoutes = CATEGORIES.map((c) => {
+  // Thin category pages are noindexed, so they are left out of the sitemap too.
+  const categoryRoutes = CATEGORIES.flatMap((c) => {
     const dates = patterns.filter((p) => p.category === c.slug).map((p) => p.date);
-    return {
-      url: `${SITE_URL}/categories/${c.slug}`,
-      ...(dates.length ? { lastModified: newest(dates) } : {}),
-    };
+    if (dates.length < MIN_INDEXABLE_CATEGORY) return [];
+    return [{ url: `${SITE_URL}/categories/${c.slug}`, lastModified: newest(dates) }];
   });
 
   const patternRoutes = patterns.map((p) => ({

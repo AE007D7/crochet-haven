@@ -1,7 +1,7 @@
 ---
 title: "Crochet Trick-or-Treat Bag Pattern (Easy Halloween Bag)"
 description: "Free crochet trick-or-treat bag pattern with a sturdy handle and pumpkin motif — a fun, functional Halloween accessory for kids."
-category: "accessories"
+category: "bags"
 difficulty: "Easy"
 date: "2026-09-18"
 image: "/images/patterns/real/trick-or-treat-bag.png"

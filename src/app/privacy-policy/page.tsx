@@ -19,7 +19,7 @@ export default function PrivacyPolicyPage() {
 
         <h2>Overview</h2>
         <p>
-          Chtatou ("we", "us") respects your privacy. This policy
+          Chtatou (&quot;we&quot;, &quot;us&quot;) respects your privacy. This policy
           explains what information is collected when you visit this site and
           how it is used.
         </p>
@@ -28,7 +28,7 @@ export default function PrivacyPolicyPage() {
         <p>
           This site may use cookies and similar technologies, including from
           third-party vendors such as Google, to serve ads based on your
-          visits to this site and other sites on the internet. Google's use
+          visits to this site and other sites on the internet. Google&apos;s use
           of advertising cookies enables it and its partners to serve ads
           based on your visit to this site and/or other sites.
         </p>
@@ -41,7 +41,7 @@ export default function PrivacyPolicyPage() {
           >
             Google Ads Settings
           </a>
-          . Alternatively, you can opt out of some third-party vendors' use of
+          . Alternatively, you can opt out of some third-party vendors&apos; use of
           cookies for personalized advertising by visiting{" "}
           <a
             href="https://www.aboutads.info"
@@ -69,7 +69,7 @@ export default function PrivacyPolicyPage() {
           of any third-party sites.
         </p>
 
-        <h2>Children's Privacy</h2>
+        <h2>Children&apos;s Privacy</h2>
         <p>
           This site is not directed at children under 13, and we do not
           knowingly collect personal information from children under 13.

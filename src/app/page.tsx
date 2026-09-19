@@ -39,7 +39,7 @@ export default function Home() {
                 Browse all patterns
               </Link>
               <Link
-                href="/categories/tutorials"
+                href="/patterns/reading-a-pattern"
                 className="rounded-full border border-border bg-surface font-medium px-6 py-3 hover:border-accent hover:text-accent transition-colors"
               >
                 New to crochet? Start here
@@ -57,8 +57,8 @@ export default function Home() {
       {/* Categories */}
       <section className="mx-auto max-w-6xl px-4 sm:px-6 py-4">
         <h2 className="font-display text-2xl mb-5">Browse by category</h2>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
-          {CATEGORIES.map((c) => (
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {CATEGORIES.filter((c) => c.core).map((c) => (
             <Link
               key={c.slug}
               href={`/categories/${c.slug}`}

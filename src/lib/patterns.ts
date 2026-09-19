@@ -9,36 +9,50 @@ const PATTERNS_DIR = path.join(process.cwd(), "src/content/patterns");
 
 export type Category =
   | "amigurumi"
-  | "blankets"
-  | "clothing"
-  | "accessories"
+  | "wearables"
+  | "bags"
+  | "home-decor"
   | "tutorials";
 
-export const CATEGORIES: { slug: Category; label: string; description: string }[] = [
+/** A category page is only indexed/listed once it has at least this many articles. */
+export const MIN_INDEXABLE_CATEGORY = 3;
+
+export const CATEGORIES: {
+  slug: Category;
+  label: string;
+  description: string;
+  /** Core categories appear in the main menu and footer. */
+  core: boolean;
+}[] = [
   {
     slug: "amigurumi",
     label: "Amigurumi",
     description: "Cute crocheted toys, animals, and characters.",
+    core: true,
   },
   {
-    slug: "blankets",
-    label: "Blankets & Throws",
-    description: "Cozy blankets, granny squares, and afghans.",
+    slug: "wearables",
+    label: "Wearables",
+    description: "Beanies, scarves, baby clothes, and other things to wear.",
+    core: true,
   },
   {
-    slug: "clothing",
-    label: "Clothing",
-    description: "Sweaters, cardigans, tops, and wearable crochet.",
+    slug: "bags",
+    label: "Bags & Purses",
+    description: "Totes, crossbody bags, clutches, pouches, and backpacks.",
+    core: true,
   },
   {
-    slug: "accessories",
-    label: "Accessories",
-    description: "Bags, hats, scarves, and small crochet projects.",
+    slug: "home-decor",
+    label: "Blankets & Home Decor",
+    description: "Blankets, seasonal decorations, ornaments, and table pieces.",
+    core: true,
   },
   {
     slug: "tutorials",
     label: "Tutorials & Tips",
     description: "Stitch guides, techniques, and beginner help.",
+    core: false,
   },
 ];
 

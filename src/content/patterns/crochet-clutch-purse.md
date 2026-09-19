@@ -1,7 +1,7 @@
 ---
 title: "Crochet Clutch Purse Pattern (Easy Evening Bag)"
 description: "Free crochet clutch purse pattern with a textured stitch and fold-over flap — a compact evening bag perfect for nights out."
-category: "accessories"
+category: "bags"
 difficulty: "Intermediate"
 date: "2026-09-16"
 image: "/images/patterns/real/crochet-clutch-purse.png"

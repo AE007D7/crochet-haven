@@ -1,7 +1,7 @@
 ---
 title: "Granny Square Blanket Pattern (Easy Crochet Throw)"
 description: "Free granny square blanket crochet pattern with a modern colorway — a classic, beginner-friendly throw that's fully customizable to any size."
-category: "blankets"
+category: "home-decor"
 difficulty: "Easy"
 date: "2026-09-12"
 image: "/images/patterns/real/granny-square-blanket.png"

@@ -1,6 +1,12 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
-import { CATEGORIES, getPatternsByCategory, type Category } from "@/lib/patterns";
+import {
+  CATEGORIES,
+  MIN_INDEXABLE_CATEGORY,
+  getPatternsByCategory,
+  type Category,
+} from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
 import AdSlot from "@/components/AdSlot";
 
@@ -19,12 +25,18 @@ export async function generateMetadata(
   const meta = findCategory(category);
   if (!meta) return {};
 
+  // Categories with only a couple of articles are thin landing pages: keep
+  // them reachable for visitors but out of search results.
+  const thin =
+    getPatternsByCategory(category as Category).length < MIN_INDEXABLE_CATEGORY;
+
   return {
     title: meta.label,
     description: meta.description,
     alternates: {
       canonical: `/categories/${category}`,
     },
+    ...(thin ? { robots: { index: false, follow: true } } : {}),
   };
 }
 
@@ -39,6 +51,13 @@ export default async function CategoryPage(
 
   return (
     <div className="mx-auto max-w-6xl px-4 sm:px-6 py-12">
+      <nav aria-label="Breadcrumb" className="text-sm text-muted mb-4">
+        <Link href="/" className="hover:text-accent">
+          Home
+        </Link>
+        <span className="mx-2">/</span>
+        <span aria-current="page">{meta.label}</span>
+      </nav>
       <h1 className="font-display text-3xl mb-2">{meta.label}</h1>
       <p className="text-muted mb-8 max-w-xl">{meta.description}</p>
 

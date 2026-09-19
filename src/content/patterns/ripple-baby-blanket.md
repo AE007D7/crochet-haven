@@ -1,7 +1,7 @@
 ---
 title: "Crochet Baby Blanket Pattern (Easy Ripple Stitch)"
 description: "Free ripple stitch baby blanket crochet pattern — a soft, wavy-textured blanket in soft pastels, sized for a crib or stroller."
-category: "blankets"
+category: "home-decor"
 difficulty: "Easy"
 date: "2026-09-12"
 image: "/images/patterns/real/ripple-baby-blanket.png"

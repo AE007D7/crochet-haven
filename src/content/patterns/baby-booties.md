@@ -1,7 +1,7 @@
 ---
 title: "Crochet Baby Booties Pattern (Easy Newborn Shoes)"
 description: "Free crochet baby booties pattern with a simple strap closure — soft, quick shoes for newborns, perfect for gifting."
-category: "accessories"
+category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-18"
 image: "/images/patterns/real/baby-booties.png"
