@@ -8,7 +8,6 @@ import {
   type Category,
 } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
-import AdSlot from "@/components/AdSlot";
 
 export function generateStaticParams() {
   return CATEGORIES.map((c) => ({ category: c.slug }));
@@ -72,8 +71,6 @@ export default async function CategoryPage(
           ))}
         </div>
       )}
-
-      <AdSlot variant="leaderboard" className="mt-12" />
     </div>
   );
 }

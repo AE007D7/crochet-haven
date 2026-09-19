@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
 import { getAllPatternSummaries } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
-import AdSlot from "@/components/AdSlot";
 
 export const metadata: Metadata = {
   title: "All Patterns",
   description:
-    "Browse every free crochet pattern on Chtatou — amigurumi, blankets, clothing, accessories, and tutorials.",
+    "Browse every free crochet pattern on Chtatou — amigurumi, wearables, bags, blankets, and home decor.",
   alternates: {
     canonical: "/patterns",
   },
@@ -27,8 +26,6 @@ export default function PatternsPage() {
           <PatternCard key={p.slug} pattern={p} />
         ))}
       </div>
-
-      <AdSlot variant="leaderboard" className="mt-12" />
     </div>
   );
 }

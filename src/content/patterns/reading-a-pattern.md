@@ -4,7 +4,8 @@ description: "A beginner's guide to crochet pattern abbreviations, asterisks, an
 category: "tutorials"
 difficulty: "Beginner"
 date: "2026-09-12"
-image: "/images/patterns/real/reading-a-pattern.png"
+image: "/images/patterns/real/reading-a-pattern.jpg"
+imageAlt: "Printed crochet pattern sheet for a granny square flower with a crochet hook, yarn and glasses on a desk"
 ---
 
 If you've ever opened a crochet pattern and felt like you were reading a foreign language, you're not alone. Patterns are written in a dense shorthand to save space, but once you learn the system, any pattern becomes readable.

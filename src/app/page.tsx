@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getAllPatternSummaries, CATEGORIES } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
-import AdSlot from "@/components/AdSlot";
 import HeroSlider from "@/components/HeroSlider";
 
 export default function Home() {
@@ -12,6 +11,7 @@ export default function Home() {
     slug: p.slug,
     title: p.title,
     image: p.image,
+    alt: p.imageAlt ?? p.title,
   }));
 
   return (
@@ -49,10 +49,6 @@ export default function Home() {
           <HeroSlider slides={heroSlides} />
         </div>
       </section>
-
-      <div className="mx-auto max-w-6xl px-4 sm:px-6">
-        <AdSlot variant="leaderboard" className="my-8" />
-      </div>
 
       {/* Categories */}
       <section className="mx-auto max-w-6xl px-4 sm:px-6 py-4">

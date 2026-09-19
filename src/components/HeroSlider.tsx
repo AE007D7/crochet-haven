@@ -8,6 +8,7 @@ export interface HeroSlide {
   slug: string;
   title: string;
   image: string;
+  alt: string;
 }
 
 export default function HeroSlider({ slides }: { slides: HeroSlide[] }) {
@@ -59,7 +60,7 @@ export default function HeroSlider({ slides }: { slides: HeroSlide[] }) {
         >
           <Image
             src={slide.image}
-            alt={slide.title}
+            alt={slide.alt}
             fill
             className="object-cover"
             sizes="(min-width: 1024px) 50vw, 100vw"

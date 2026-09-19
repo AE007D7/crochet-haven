@@ -9,7 +9,6 @@ import {
   getAllPatternSummaries,
 } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
-import AdSlot from "@/components/AdSlot";
 import ArticleActions from "@/components/ArticleActions";
 import { SITE_NAME, SITE_URL } from "@/lib/site";
 
@@ -153,7 +152,7 @@ export default async function PatternPage(
       <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-2">
         <Image
           src={pattern.image}
-          alt={pattern.title}
+          alt={pattern.imageAlt ?? pattern.title}
           fill
           className="object-cover"
           priority
@@ -208,8 +207,6 @@ export default async function PatternPage(
         </nav>
       )}
 
-      <AdSlot variant="in-content" className="mb-10" />
-
       <div
         className="prose-crochet"
         dangerouslySetInnerHTML={{ __html: pattern.contentHtml }}
@@ -232,8 +229,6 @@ export default async function PatternPage(
           if you spot a mistake.
         </p>
       </aside>
-
-      <AdSlot variant="in-content" className="mt-10" />
 
       {related.length > 0 && (
         <section className="mt-16">
