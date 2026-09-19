@@ -34,29 +34,29 @@ This little strawberry works up in under an hour and uses less than 15 grams of 
 
 Worked bottom-up in a continuous spiral. Start at the pointed tip of the strawberry.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6–8. sc around, no increase (30) — 3 rounds
-9. (3 sc, dec) around (24)
-10. (2 sc, dec) around (18)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Rounds 6–8:** sc around, no increase (30) — 3 rounds
+- **Round 9:** (3 sc, dec) around (24)
+- **Round 10:** (2 sc, dec) around (18)
 
 Begin stuffing lightly as you go, adding more as the round narrows.
 
-11. (1 sc, dec) around (12)
+- **Round 11:** (1 sc, dec) around (12)
 
 Add embroidered yellow "seed" stitches scattered around the body now, before it closes further — small straight stitches in a staggered pattern work best.
 
-12. dec around (6)
+- **Round 12:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch, but don't pull fully closed yet — leave a small opening at the top for the leafy cap.
 
 ## Leafy Top (Green)
 
-1. MR, 6 sc in ring (6)
-2. (ch 3, sl st in same st, sl st in next st) around — repeat 6 times to form 6 small pointed leaves
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** (ch 3, sl st in same st, sl st in next st) around — repeat 6 times to form 6 small pointed leaves
 
 Fasten off, leaving a tail for sewing.
 

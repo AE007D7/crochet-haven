@@ -34,29 +34,29 @@ This cuddly bunny is a good first project for anyone learning amigurumi. It uses
 
 Worked as one piece, bottom-up, in a continuous spiral. Use a stitch marker to track the start of each round.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6–12. sc around, no increase (30) — 7 rounds
-13. (3 sc, dec) around (24)
-14. (2 sc, dec) around (18)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Rounds 6–12:** sc around, no increase (30) — 7 rounds
+- **Round 13:** (3 sc, dec) around (24)
+- **Round 14:** (2 sc, dec) around (18)
 
 Stuff firmly. Attach safety eyes between rounds 8–9, about 6 stitches apart.
 
-15. (1 sc, dec) around (12)
-16. dec around (6)
+- **Round 15:** (1 sc, dec) around (12)
+- **Round 16:** dec around (6)
 
 Fasten off, leaving a long tail. Weave through remaining stitches and cinch closed.
 
 ## Ears (make 2)
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. sc around (12)
-4. (1 sc, inc) around (18)
-5–9. sc around (18) — 5 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** sc around (12)
+- **Round 4:** (1 sc, inc) around (18)
+- **Rounds 5–9:** sc around (18) — 5 rounds
 
 Fold flat and sew to the top of the head, angled slightly outward.
 

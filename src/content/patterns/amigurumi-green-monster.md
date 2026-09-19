@@ -33,29 +33,29 @@ This friendly round-headed monster is an original, cartoonish design — big goo
 
 ## Head and Body (worked as one piece)
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6–16. sc around, no increase (30) — 11 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Rounds 6–16:** sc around, no increase (30) — 11 rounds
 
 Attach the two safety eyes between rounds 7-8, spaced unevenly (one slightly higher than the other) for a playful, googly-eyed look.
 
-17. (3 sc, dec) around (24)
-18. (2 sc, dec) around (18)
+- **Round 17:** (3 sc, dec) around (24)
+- **Round 18:** (2 sc, dec) around (18)
 
 Stuff firmly.
 
-19. (1 sc, dec) around (12)
-20. dec around (6)
+- **Round 19:** (1 sc, dec) around (12)
+- **Round 20:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed.
 
 ## Arms (make 2)
 
-1. MR, 5 sc in ring (5)
-2-8. sc around (5) — 7 rounds
+- **Round 1:** MR, 5 sc in ring (5)
+- **Rounds 2–8:** sc around (5) — 7 rounds
 
 Fasten off leaving a tail. Lightly stuff and sew to the upper sides of the body.
 
@@ -63,8 +63,8 @@ Fasten off leaving a tail. Lightly stuff and sew to the upper sides of the body.
 
 With white or cream yarn:
 
-1. MR, 5 sc in ring (5)
-2-4. sc around (5) — 3 rounds
+- **Round 1:** MR, 5 sc in ring (5)
+- **Rounds 2–4:** sc around (5) — 3 rounds
 
 Fasten off, leaving a tail. Lightly stuff and sew to the top of the head, slightly off-center.
 

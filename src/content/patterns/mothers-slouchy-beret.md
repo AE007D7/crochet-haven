@@ -30,15 +30,15 @@ This oversized slouchy beret is designed as a grown-up match to the [baby beanie
 
 ## Crown
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6. (4 sc, inc) around (36)
-7. (5 sc, inc) around (42)
-8. (6 sc, inc) around (48)
-9. (7 sc, inc) around (54)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Round 6:** (4 sc, inc) around (36)
+- **Round 7:** (5 sc, inc) around (42)
+- **Round 8:** (6 sc, inc) around (48)
+- **Round 9:** (7 sc, inc) around (54)
 
 Continue increasing in this pattern (adding one more plain stitch between increases each round) until the flat circle measures approximately 10-11 inches across — this creates the signature slouchy volume.
 

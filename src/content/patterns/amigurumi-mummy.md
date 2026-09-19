@@ -33,19 +33,19 @@ This little mummy is a simple round body wrapped in strips of crocheted "bandage
 
 Worked bottom-up in a continuous spiral.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6–13. sc around, no increase (30) — 8 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Rounds 6–13:** sc around, no increase (30) — 8 rounds
 
 Begin stuffing firmly as you go.
 
-14. (3 sc, dec) around (24)
-15. (2 sc, dec) around (18)
-16. (1 sc, dec) around (12)
-17. dec around (6)
+- **Round 14:** (3 sc, dec) around (24)
+- **Round 15:** (2 sc, dec) around (18)
+- **Round 16:** (1 sc, dec) around (12)
+- **Round 17:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed.
 

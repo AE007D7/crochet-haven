@@ -33,51 +33,51 @@ This little black cat is worked in simple pieces and assembled at the end, with 
 
 ## Head
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6–11. sc around (30) — 6 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Rounds 6–11:** sc around (30) — 6 rounds
 
 Attach eyes between rounds 6-7, spaced about 8 stitches apart.
 
-12. (3 sc, dec) around (24)
-13. (2 sc, dec) around (18)
+- **Round 12:** (3 sc, dec) around (24)
+- **Round 13:** (2 sc, dec) around (18)
 
 Stuff firmly.
 
-14. (1 sc, dec) around (12)
-15. dec around (6)
+- **Round 14:** (1 sc, dec) around (12)
+- **Round 15:** dec around (6)
 
 Fasten off, leaving a tail for sewing to the body.
 
 ## Ears (make 2)
 
-1. MR, 4 sc in ring (4)
-2. inc around (8)
-3. sc around (8)
+- **Round 1:** MR, 4 sc in ring (4)
+- **Round 2:** inc around (8)
+- **Round 3:** sc around (8)
 
 Fold flat and sew closed, then attach to the top of the head with the points facing slightly outward.
 
 ## Body
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4-8. sc around (18) — 5 rounds
-9. (1 sc, dec) around (12)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Rounds 4–8:** sc around (18) — 5 rounds
+- **Round 9:** (1 sc, dec) around (12)
 
 Stuff firmly.
 
-10. dec around (6)
+- **Round 10:** dec around (6)
 
 Fasten off, leaving a tail. Sew the body to the underside of the head.
 
 ## Legs (make 4)
 
-1. MR, 6 sc in ring (6)
-2-5. sc around (6) — 4 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Rounds 2–5:** sc around (6) — 4 rounds
 
 Fasten off, leaving a tail. Lightly stuff and sew two to the front of the body and two to the back, positioning the front legs slightly forward for a seated pose.
 

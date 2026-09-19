@@ -34,33 +34,33 @@ A round, cheerful snowman is a versatile decoration that works for the whole win
 
 ## Bottom Sphere (Body)
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6–11. sc around, no increase (30) — 6 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Rounds 6–11:** sc around, no increase (30) — 6 rounds
 
 Begin stuffing firmly.
 
-12. (3 sc, dec) around (24)
-13. (2 sc, dec) around (18)
-14. (1 sc, dec) around (12)
-15. dec around (6)
+- **Round 12:** (3 sc, dec) around (24)
+- **Round 13:** (2 sc, dec) around (18)
+- **Round 14:** (1 sc, dec) around (12)
+- **Round 15:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed.
 
 ## Top Sphere (Head)
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4–8. sc around, no increase (18) — 5 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Rounds 4–8:** sc around, no increase (18) — 5 rounds
 
 Attach small safety eyes or embroider between rounds 4-5, spaced evenly.
 
-9. (1 sc, dec) around (12)
-10. dec around (6)
+- **Round 9:** (1 sc, dec) around (12)
+- **Round 10:** dec around (6)
 
 Stuff firmly before closing. Fasten off, leaving a tail.
 

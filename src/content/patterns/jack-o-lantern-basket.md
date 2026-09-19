@@ -31,13 +31,13 @@ This sturdy little basket doubles as seasonal decor and a functional candy bowl 
 
 ## Base
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6. (4 sc, inc) around (36)
-7. (5 sc, inc) around (42)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Round 6:** (4 sc, inc) around (36)
+- **Round 7:** (5 sc, inc) around (42)
 
 Continue increasing in this pattern until the base measures approximately 6-7 inches across.
 
@@ -61,8 +61,8 @@ Chain a length for a handle (approximately 20-24 sts), sc back across for a stur
 
 With brown or green yarn:
 
-1. MR, 6 sc in ring (6)
-2-5. sc around (6) — 4 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Rounds 2–5:** sc around (6) — 4 rounds
 
 Fasten off, leaving a tail. Lightly stuff and sew to the center of a small flattened circle attached at the base, or simply sew directly to the rim as a decorative topper if not using a handle.
 

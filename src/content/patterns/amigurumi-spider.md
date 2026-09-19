@@ -33,17 +33,17 @@ This round-bodied spider is a fast, cute Halloween project — great scattered a
 
 ## Body
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5–8. sc around (24) — 4 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Rounds 5–8:** sc around (24) — 4 rounds
 
 Stuff firmly.
 
-9. (2 sc, dec) around (18)
-10. (1 sc, dec) around (12)
-11. dec around (6)
+- **Round 9:** (2 sc, dec) around (18)
+- **Round 10:** (1 sc, dec) around (12)
+- **Round 11:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed.
 

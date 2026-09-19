@@ -54,8 +54,8 @@ For a more classic holly-leaf silhouette, work small picots (ch 2, sl st back in
 
 With red yarn:
 
-1. MR, 5 sc in ring (5)
-2. dec around twice, then fasten off, leaving a small tail
+- **Round 1:** MR, 5 sc in ring (5)
+- **Round 2:** dec around twice, then fasten off, leaving a small tail
 
 Stuff each berry very lightly with a small scrap of yarn or stuffing before closing.
 

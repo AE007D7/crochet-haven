@@ -30,12 +30,12 @@ This drawstring backpack is one of the simplest bag shapes to crochet — just a
 
 ## Base
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6. (4 sc, inc) around (36)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Round 6:** (4 sc, inc) around (36)
 
 Continue increasing in this pattern until the base measures approximately 10-12 inches across.
 

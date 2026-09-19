@@ -35,14 +35,14 @@ This simple beanie works up quickly in soft, baby-safe cotton yarn, making it a 
 
 ## Pattern
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6. (4 sc, inc) around (36)
-7. (5 sc, inc) around (42) — for 0-3 months and up
-8. (6 sc, inc) around (48) — for 3-6 months
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Round 6:** (4 sc, inc) around (36)
+- **Round 7:** (5 sc, inc) around (42) — for 0-3 months and up
+- **Round 8:** (6 sc, inc) around (48) — for 3-6 months
 
 Once you reach the appropriate stitch count for your size, stop increasing and work even rounds of sc without further shaping until the hat reaches the desired height (see sizing guide above).
 

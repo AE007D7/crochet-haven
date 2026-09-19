@@ -32,26 +32,26 @@ This little candy corn shape is one of the fastest and most colorful Halloween p
 
 Worked bottom-up in a continuous spiral, starting with yellow at the base.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4–7. sc around, no increase (18) — 4 rounds in yellow
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Rounds 4–7:** sc around, no increase (18) — 4 rounds in yellow
 
 Switch to orange yarn:
 
-8–11. sc around (18) — 4 rounds in orange
+- **Rounds 8–11:** sc around (18) — 4 rounds in orange
 
 Begin decreasing to shape the tapering tip:
 
-12. (1 sc, dec) around (12)
+- **Round 12:** (1 sc, dec) around (12)
 
 Switch to white yarn:
 
-13. sc around (12) — 1 round in white
+- **Round 13:** sc around (12) — 1 round in white
 
 Continue stuffing as the shape narrows.
 
-14. dec around (6)
+- **Round 14:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed at the white tip.
 

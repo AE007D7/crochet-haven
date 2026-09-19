@@ -34,22 +34,22 @@ A string of soft, round-bodied ghosts makes an easy no-carve Halloween decoratio
 
 Worked bottom-up in a continuous spiral.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5–9. sc around, no increase (24) — 5 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Rounds 5–9:** sc around, no increase (24) — 5 rounds
 
 Begin stuffing as you go.
 
-10. (2 sc, dec) around (18)
-11. (1 sc, dec) around (12)
+- **Round 10:** (2 sc, dec) around (18)
+- **Round 11:** (1 sc, dec) around (12)
 
 For a classic "wavy bottom" ghost shape, stop increasing/decreasing here and instead work the final round as a scalloped edge: *sc in next 2 sts, ch 2, skip 1 st, sl st in next st*, repeat around, then fasten off without closing the top into a point. This leaves an open, flat bottom for the wavy hem effect.
 
 Alternatively, for a simpler rounded ghost, continue:
 
-12. dec around (6)
+- **Round 12:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed.
 

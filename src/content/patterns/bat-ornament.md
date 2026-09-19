@@ -31,9 +31,9 @@ This flat bat motif is a quick, satisfying make for Halloween decorating — str
 
 ## Body
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. sc around (12)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** sc around (12)
 
 Fasten off, leaving a tail.
 

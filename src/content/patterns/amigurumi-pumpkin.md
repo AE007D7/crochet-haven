@@ -34,24 +34,24 @@ This round little pumpkin is a Halloween staple project — quick to make, great
 
 Worked bottom-up in a continuous spiral.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6. (4 sc, inc) around (36)
-7–14. sc around, no increase (36) — 8 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Round 6:** (4 sc, inc) around (36)
+- **Rounds 7–14:** sc around, no increase (36) — 8 rounds
 
 To create the classic pumpkin ridges, use a length of the same yarn threaded on a yarn needle and surface-stitch 6 evenly spaced vertical lines from top to bottom once the piece is finished, pulling gently to create the segmented look.
 
-15. (4 sc, dec) around (30)
-16. (3 sc, dec) around (24)
+- **Round 15:** (4 sc, dec) around (30)
+- **Round 16:** (3 sc, dec) around (24)
 
 Begin stuffing firmly.
 
-17. (2 sc, dec) around (18)
-18. (1 sc, dec) around (12)
-19. dec around (6)
+- **Round 17:** (2 sc, dec) around (18)
+- **Round 18:** (1 sc, dec) around (12)
+- **Round 19:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed.
 
@@ -59,8 +59,8 @@ Fasten off, leaving a tail. Weave through remaining stitches and cinch closed.
 
 With brown or green yarn:
 
-1. MR, 5 sc in ring (5)
-2–5. sc around (5) — 4 rounds
+- **Round 1:** MR, 5 sc in ring (5)
+- **Rounds 2–5:** sc around (5) — 4 rounds
 
 Lightly stuff, fasten off leaving a tail, and sew to the center top of the pumpkin.
 

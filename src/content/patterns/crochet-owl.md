@@ -34,32 +34,32 @@ This little owl is worked as one piece from the bottom up, with two simple wing 
 
 Worked bottom-up in a continuous spiral.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5. (3 sc, inc) around (30)
-6–14. sc around, no increase (30) — 9 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Round 5:** (3 sc, inc) around (30)
+- **Rounds 6–14:** sc around, no increase (30) — 9 rounds
 
 Switch to contrast color for the belly panel on rounds 8–13, working only the front third of stitches back and forth in rows if you want a defined belly patch, or simply changing color for full rounds for a simpler striped look.
 
-15. (3 sc, dec) around (24)
-16. (2 sc, dec) around (18)
+- **Round 15:** (3 sc, dec) around (24)
+- **Round 16:** (2 sc, dec) around (18)
 
 Attach safety eyes between rounds 9–10, spaced about 8 stitches apart, close to the top for a wide-eyed look.
 
-17. (1 sc, dec) around (12)
-18. dec around (6)
+- **Round 17:** (1 sc, dec) around (12)
+- **Round 18:** dec around (6)
 
 Stuff firmly before closing. Fasten off, weave tail through remaining stitches, and cinch closed.
 
 ## Wings (make 2)
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. sc around (12)
-4. (1 sc, inc) around (18)
-5–6. sc around (18)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** sc around (12)
+- **Round 4:** (1 sc, inc) around (18)
+- **Rounds 5–6:** sc around (18)
 
 Flatten the wing and sew the opening closed, then sew to the side of the body angled slightly backward.
 

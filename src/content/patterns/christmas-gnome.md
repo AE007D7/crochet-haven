@@ -35,17 +35,17 @@ This classic faceless gnome is a holiday decorating staple — no embroidery ski
 
 Worked bottom-up in a continuous spiral, in your body/robe color.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. (1 sc, inc) around (18)
-4. (2 sc, inc) around (24)
-5–14. sc around, no increase (24) — 10 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** (1 sc, inc) around (18)
+- **Round 4:** (2 sc, inc) around (24)
+- **Rounds 5–14:** sc around, no increase (24) — 10 rounds
 
 Begin stuffing as you go, adding more toward the top.
 
-15. (2 sc, dec) around (18)
-16. (1 sc, dec) around (12)
-17. dec around (6)
+- **Round 15:** (2 sc, dec) around (18)
+- **Round 16:** (1 sc, dec) around (12)
+- **Round 17:** dec around (6)
 
 Fasten off, leaving a tail. Weave through remaining stitches and cinch closed — this becomes the top of the head, where the hat will attach.
 
@@ -53,8 +53,8 @@ Fasten off, leaving a tail. Weave through remaining stitches and cinch closed �
 
 With skin-tone yarn:
 
-1. MR, 6 sc in ring (6)
-2. sc around (6)
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** sc around (6)
 
 Lightly stuff and fasten off leaving a tail. Sew to the center-front of the body, about a third of the way down from the top.
 
@@ -62,13 +62,13 @@ Lightly stuff and fasten off leaving a tail. Sew to the center-front of the body
 
 Worked as a tall cone, in your chosen hat color.
 
-1. MR, 6 sc in ring (6)
-2. inc around (12)
-3. sc around (12)
-4. (1 sc, inc) around (18)
-5. sc around (18)
-6. (2 sc, inc) around (24)
-7-12. sc around (24) — 6 rounds
+- **Round 1:** MR, 6 sc in ring (6)
+- **Round 2:** inc around (12)
+- **Round 3:** sc around (12)
+- **Round 4:** (1 sc, inc) around (18)
+- **Round 5:** sc around (18)
+- **Round 6:** (2 sc, inc) around (24)
+- **Rounds 7–12:** sc around (24) — 6 rounds
 
 Fasten off, leaving a long tail. The hat should be tall enough to droop slightly forward or to the side when placed on the body — this is the classic gnome silhouette.
 
