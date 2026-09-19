@@ -63,3 +63,5 @@ Once all trees are complete, thread a length of twine through the top point of e
 Weave in all remaining ends. Hang the garland along a mantel, staircase, or window.
 
 *Tip: alternate 2-3 shades of green across the trees in your garland — it reads as a lush pine forest rather than a uniform row and adds visual interest without extra effort.*
+
+Add the [holly wreath ornament](/patterns/holly-wreath-ornament) to the same mantel, or hang a [Christmas stocking](/patterns/christmas-stocking) below it.

@@ -60,3 +60,5 @@ Sew a button to the center front of the bag body, positioned where the flap natu
 Weave in all ends. If desired, cut a piece of fabric slightly smaller than the interior and hand-sew it in as a lining for added structure and a finished look inside.
 
 *Tip: a metallic or lightly sparkly DK yarn elevates this pattern instantly for an evening-out look without changing a single stitch.*
+
+A small [coin purse](/patterns/coin-purse-pouch) makes a good matching piece, and the [crossbody bag](/patterns/crossbody-bag) is the everyday version.

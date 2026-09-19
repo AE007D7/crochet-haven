@@ -52,8 +52,10 @@ Many patterns alternate instructions for RS (right side, the "front" of your wor
 
 ## Gauge Swatches Matter
 
-Before starting a garment pattern, always crochet a small gauge swatch and measure it against the pattern's stated gauge (usually given as "X stitches and Y rows = 4 inches"). Skipping this step is the #1 reason finished garments come out the wrong size.
+Before starting a garment pattern, always crochet a small gauge swatch and measure it against the pattern's stated gauge (usually given as "X stitches and Y rows = 4 inches"). Skipping this step is a common reason finished garments come out the wrong size.
 
 ## Putting It Together
 
 Once you can decode abbreviations, repeats, and stitch counts, you can follow almost any crochet pattern regardless of the designer's individual style. Start with a small project — like our [Chunky Ribbed Beanie](/patterns/chunky-beanie) — to practice reading a full pattern from start to finish.
+
+Ready to practise? The [amigurumi bunny](/patterns/amigurumi-bunny) is a good first project for round-by-round patterns.

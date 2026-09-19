@@ -11,7 +11,7 @@ hookSize: "4.0mm (G-6)"
 estimatedTime: "1-1.5 hours"
 ---
 
-This round-bodied spider is a fast, cute Halloween project — great scattered across a mantel, tucked into a spiderweb coaster, or hung from a doorway.
+This round-bodied spider is a fast, cute Halloween project — great scattered across a mantel, tucked into a [spiderweb coaster](/patterns/spiderweb-coasters), or hung from a doorway.
 
 ## Materials
 

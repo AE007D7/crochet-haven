@@ -64,3 +64,5 @@ Thread one cord through the eyelet round starting and ending at one side of the 
 Weave in all ends. Reinforce the eyelet holes with a few extra whip stitches around each if you plan to carry heavier items.
 
 *Tip: work the base and bottom third of the body in a slightly thicker or double strand of yarn for extra durability where the bag takes the most wear.*
+
+For a bag with a flap and adjustable strap instead, see the [crossbody bag](/patterns/crossbody-bag).

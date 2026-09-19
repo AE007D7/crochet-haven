@@ -48,3 +48,5 @@ Fasten off, leaving a long tail. Thread through remaining stitches and pull tigh
 Weave in ends. Add a pom-pom to the top if desired, or leave it clean for a minimalist look.
 
 *Tip: bulky yarn hides tension mistakes really well, which makes this a forgiving practice pattern for front-post/back-post stitches.*
+
+For a slouchier adult hat, try the [slouchy beret](/patterns/mothers-slouchy-beret); for a newborn size, see the [baby beanie](/patterns/baby-beanie-hat). It also pairs with the [infinity scarf](/patterns/infinity-scarf).

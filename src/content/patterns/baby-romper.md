@@ -65,3 +65,5 @@ Sew one button to the end of each front strap. Work a small buttonhole loop or a
 Weave in all ends. Try the romper on (or hold up to baby) before final sewing if possible to fine-tune the strap length.
 
 *Tip: work the leg openings a bit looser than you think you need — a snug leg opening makes diaper changes much more difficult.*
+
+To finish the outfit, add the [baby booties](/patterns/baby-booties) and the [baby beanie](/patterns/baby-beanie-hat). If you are new to garment patterns, [how to read a crochet pattern](/patterns/reading-a-pattern) explains gauge swatches and stitch counts.

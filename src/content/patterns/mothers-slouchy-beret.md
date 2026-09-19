@@ -11,7 +11,7 @@ hookSize: "5.0mm (H-8)"
 estimatedTime: "2-3 hours"
 ---
 
-This oversized slouchy beret is designed as a grown-up match to the baby beanie pattern — perfect for a mother-and-baby matching photo set, or simply as a cozy hat on its own.
+This oversized slouchy beret is designed as a grown-up match to the [baby beanie pattern](/patterns/baby-beanie-hat) — perfect for a mother-and-baby matching photo set, or simply as a cozy hat on its own.
 
 ## Materials
 
@@ -57,3 +57,5 @@ Switch to front-post/back-post double crochet ribbing for the final 2-2.5 inches
 Fasten off, leaving a tail. Weave in all ends. Fold the ribbed brim up once for a classic beret look, or wear unfolded for extra slouch.
 
 *Tip: this pattern pairs beautifully with the baby beanie hat pattern in a matching color for a mother-and-baby photo set — just work the beanie's increases to a smaller circle diameter and skip the extended slouchy body section.*
+
+For a warm neck warmer in the same yarn, see the [infinity scarf](/patterns/infinity-scarf).

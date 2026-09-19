@@ -54,3 +54,5 @@ Turn the pouch right-side out. Pin the zipper into the top opening, with the zip
 Weave in all yarn ends. Test the zipper to make sure it opens and closes smoothly before adding any final embellishments like a small tassel or bead on the zipper pull.
 
 *Tip: single crochet fabric has some stretch, so sew the zipper in with the pouch opening held slightly stretched taut — this keeps the zipper lying flat rather than puckering once you let go.*
+
+Need a bigger bag to go with it? See the [crossbody bag](/patterns/crossbody-bag).

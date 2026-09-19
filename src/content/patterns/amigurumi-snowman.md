@@ -81,3 +81,5 @@ Chain a length long enough to wrap around the neck with some hanging down (appro
 Weave in all ends. Add a small crocheted hat or leave the head bare for a classic bald snowman look.
 
 *Tip: use a slightly fuzzy or bouclé white yarn if you have some on hand — it gives a lovely "snowy" texture without any extra work.*
+
+It sits well beside the [Christmas gnome](/patterns/christmas-gnome) on a shelf or mantel.

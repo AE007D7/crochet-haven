@@ -11,7 +11,7 @@ hookSize: "5.0mm (H-8)"
 estimatedTime: "15-20 hours"
 ---
 
-The granny square is the most iconic motif in crochet, and for good reason: it's quick to memorize, endlessly customizable, and forgiving of tension differences. This throw uses 64 squares (8x8) for a lap-size blanket, roughly 50" x 50".
+The granny square is one of the best-known motifs in crochet, and for good reason: it's quick to memorize, endlessly customizable, and forgiving of tension differences. This throw uses 64 squares (8x8) for a lap-size blanket, roughly 50" x 50".
 
 ## Materials
 
@@ -51,3 +51,5 @@ Once joined, work 3-4 rounds of single crochet around the entire blanket in colo
 Weave in all ends, block gently with a light steam or damp-blocking, and let dry flat. Your blanket is ready for movie nights.
 
 *Tip: keep a small notebook of which colors you used in which position — it makes matching leftover yarn to future projects much easier.*
+
+New to crochet patterns? Start with [how to read a crochet pattern](/patterns/reading-a-pattern). Making one for a baby? See the [ripple baby blanket](/patterns/ripple-baby-blanket).

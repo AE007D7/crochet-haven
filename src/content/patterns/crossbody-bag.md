@@ -75,3 +75,5 @@ Sew the ends of the strap securely to the inside top edges of the bag, on opposi
 Weave in all ends. If lining, cut fabric to match the bag's interior shape and hand-sew it in place along the top edge.
 
 *Tip: work the bag body in a tight gauge (go down half a hook size from what's recommended on your yarn label) for extra structure and to prevent stretching under the weight of contents.*
+
+For evening, see the [clutch purse](/patterns/crochet-clutch-purse); for small essentials, the [coin purse](/patterns/coin-purse-pouch).

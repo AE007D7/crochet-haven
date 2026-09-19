@@ -49,3 +49,5 @@ Work 3 rounds of single crochet around the entire outer edge in your main border
 Weave in all ends securely (baby blankets get a lot of washing, so extra-secure ends matter). Block gently and let dry flat before gifting or using.
 
 *Tip: keep a consistent color-change rhythm (like "4 rows each") written down somewhere — it's easy to lose count over a long project like this.*
+
+For a lighter, smaller wrap, see the [baby swaddle blanket](/patterns/baby-swaddle-blanket). Prefer a patchwork look? The [granny square blanket](/patterns/granny-square-blanket) can be sized down for a baby.

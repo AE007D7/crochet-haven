@@ -57,3 +57,5 @@ Sew a button to one end of the strap. Work a small buttonhole loop (chain a leng
 Weave in all ends. Repeat entirely to make the second bootie.
 
 *Tip: block the finished booties over a small round object (like a spice jar wrapped in plastic) to help them hold a neat, rounded shape while drying.*
+
+These booties go with the [baby beanie](/patterns/baby-beanie-hat) and the [baby swaddle blanket](/patterns/baby-swaddle-blanket).

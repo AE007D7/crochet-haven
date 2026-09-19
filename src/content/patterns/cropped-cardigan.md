@@ -54,3 +54,5 @@ Chain 40. Work in mesh stitch in the round (join to work in a tube) for 16 round
 Weave in ends and block flat to open up the mesh pattern fully. Add buttons if you'd like a closure, or wear it open as designed.
 
 *Tip: block this piece aggressively — mesh stitches look tight and cramped until blocking relaxes them into their full drape.*
+
+New to garment patterns? [How to read a crochet pattern](/patterns/reading-a-pattern) explains gauge swatches and stitch counts before you start.

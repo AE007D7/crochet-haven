@@ -69,3 +69,5 @@ Cut a length of ribbon or crochet a short chain, fold in half, and sew both ends
 Weave in all ends. Block gently to even out the shape before hanging.
 
 *Tip: work the two panels in slightly different shades of red if you want a subtle ombre look, or keep them identical for a clean, classic stocking.*
+
+For the rest of the mantel, see the [Christmas tree garland](/patterns/christmas-tree-garland) and the [holly wreath ornament](/patterns/holly-wreath-ornament).

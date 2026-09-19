@@ -43,3 +43,5 @@ At stitch 10 from one side seam, chain 40 (skipping across the top opening), the
 Work 1 round of slip stitch around the top opening for a clean edge. Weave in all ends. If desired, sew in a fabric lining to keep small items from poking through the stitches.
 
 *Tip: cotton yarn has almost no stretch, so keep your tension even and slightly loose to make the stitches easier on your hands over a long project like this.*
+
+For a lighter open-weave version for summer, see the [beach tote](/patterns/beach-tote).

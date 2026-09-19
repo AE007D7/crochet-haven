@@ -90,3 +90,5 @@ Chain 12, then sc in 2nd chain from hook and across. If you want an arched, upri
 Embroider a small pink nose and a simple curved mouth. Weave in all ends. Pose the tail and ears for a playful or spooky expression, depending on your preference.
 
 *Tip: positioning the ears close together and slightly forward gives the cat a more alert, "Halloween spooked" expression, while spreading them apart gives a calmer look.*
+
+To build a Halloween shelf, pair it with the [witch hat](/patterns/witch-hat) and the [crochet pumpkin](/patterns/amigurumi-pumpkin).

@@ -55,3 +55,5 @@ For a folded brim look, work the last 1-2 inches in front-post/back-post double 
 Fasten off, leaving a tail. Weave in all ends. Add a small crocheted flower, bow, or pom-pom to the top or side if desired.
 
 *Tip: baby heads grow fast — if gifting for a future date rather than a newborn now, size up one category to allow room to grow.*
+
+Want a full set? Add the [baby booties](/patterns/baby-booties) and the [baby romper](/patterns/baby-romper), or make a grown-up version with the [slouchy beret](/patterns/mothers-slouchy-beret).

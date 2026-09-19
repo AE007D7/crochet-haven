@@ -42,3 +42,5 @@ Fold the strip so the first and last rows meet, right sides together. Using a ya
 Turn the scarf right-side out and weave in all ends. Wrap once or twice around the neck depending on how snug you like it.
 
 *Tip: bulkier yarn makes this project even faster — try a size 5 (bulky) yarn with a 6.5mm hook if you want a chunkier, quicker version.*
+
+A matching hat is quick to add: see the [chunky ribbed beanie](/patterns/chunky-beanie).

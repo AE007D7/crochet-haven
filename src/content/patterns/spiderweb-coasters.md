@@ -58,3 +58,5 @@ Sew or glue the spider to the center of the web, or let it dangle from a thread 
 Weave in all ends and block the coaster flat, pinning out the points of the web edging for a crisp, symmetrical shape. Let dry fully before use.
 
 *Tip: work a full set in white or cream yarn for a delicate lace look, or black yarn on a dark tablecloth for a bolder, more graphic Halloween statement.*
+
+For a bigger, fuller spider to sit on the web, use the [amigurumi spider](/patterns/amigurumi-spider).

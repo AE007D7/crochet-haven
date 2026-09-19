@@ -66,3 +66,5 @@ Once all ghosts are complete, thread a length of twine or yarn through the top o
 Weave in all remaining ends. Hang the garland along a mantel, window, or doorway.
 
 *Tip: vary the size of each ghost slightly by adding or removing a round or two — a garland with a little size variation looks more charming than perfectly uniform ghosts.*
+
+For a fuller Halloween mantel, add the [crochet pumpkin](/patterns/amigurumi-pumpkin) and the [bat ornament](/patterns/bat-ornament).

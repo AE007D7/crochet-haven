@@ -11,7 +11,7 @@ hookSize: "4.0mm (G-6)"
 estimatedTime: "45-60 minutes"
 ---
 
-This mini broom is a fun accent piece — pair it with the witch hat pattern for a matching wreath set, or use it as a standalone hanging ornament.
+This mini broom is a fun accent piece — pair it with the [witch hat pattern](/patterns/witch-hat) for a matching wreath set, or use it as a standalone hanging ornament.
 
 ## Materials
 

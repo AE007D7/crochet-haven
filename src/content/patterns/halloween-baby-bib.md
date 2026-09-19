@@ -65,3 +65,5 @@ Sew a button to the strap end opposite the buttonhole.
 Weave in all ends. Work 1 round of sc around the entire outer edge for a clean, finished border.
 
 *Tip: use 100% cotton yarn for anything worn against baby's skin — it's soft, breathable, and machine washable, unlike most acrylic yarns.*
+
+For the rest of the outfit, see the [baby beanie](/patterns/baby-beanie-hat) and the [baby booties](/patterns/baby-booties).

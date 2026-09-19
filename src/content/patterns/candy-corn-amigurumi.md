@@ -60,3 +60,5 @@ Fasten off, leaving a tail. Weave through remaining stitches and cinch closed at
 Weave in all ends. Group 3-5 together in a small bowl or basket for a classic Halloween candy display, or add a loop to the base for hanging as a garland piece.
 
 *Tip: keep your color-change rounds crisp by changing colors on the last yarn-over of the final stitch in the previous color — it creates a much cleaner stripe transition.*
+
+They fit nicely in the [jack-o-lantern basket](/patterns/jack-o-lantern-basket).

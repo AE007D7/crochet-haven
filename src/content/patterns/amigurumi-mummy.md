@@ -66,3 +66,5 @@ With black yarn, embroider two small round eyes peeking through the wrapped band
 Weave in all remaining ends. Fray the ends of a strip or two slightly for a more "unraveling" mummy look.
 
 *Tip: leave one bandage strip trailing loose off the bottom for extra character — it reads instantly as a mummy silhouette even from a distance.*
+
+More friendly Halloween characters: the [skeleton](/patterns/amigurumi-skeleton) and the [green monster](/patterns/amigurumi-green-monster).

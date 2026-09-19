@@ -87,3 +87,5 @@ Sew the hat to the top of the head, allowing it to flop slightly to one side or 
 Weave in all ends. Optionally add a small pom-pom to the tip of the hat, or a thin belt around the middle of the body for extra detail.
 
 *Tip: gnomes look best in odd-numbered groupings — make three in a slightly different hat color each for a natural-looking shelf display.*
+
+Make a winter set with the [snowman](/patterns/amigurumi-snowman) and the [Christmas stocking](/patterns/christmas-stocking).

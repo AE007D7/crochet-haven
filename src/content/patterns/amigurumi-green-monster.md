@@ -77,3 +77,5 @@ Embroider a wide, curved stitched mouth in black yarn, adding a couple of small 
 Weave in all ends. Optionally brush the body gently with a wire pet brush for a soft, fuzzy monster texture.
 
 *Tip: mismatched eye sizes and slightly asymmetrical features make this monster read as friendly and silly rather than symmetrical and serious — lean into the wonkiness.*
+
+More friendly Halloween characters: the [mummy](/patterns/amigurumi-mummy) and the [skeleton](/patterns/amigurumi-skeleton).

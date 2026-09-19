@@ -11,7 +11,7 @@ hookSize: "3.5mm (E-4)"
 estimatedTime: "3-4 hours"
 ---
 
-This cuddly bunny is one of the most requested first projects for anyone learning amigurumi. It uses only single crochet and a handful of increases and decreases, so if you know the basics you can finish one in an evening.
+This cuddly bunny is a good first project for anyone learning amigurumi. It uses only single crochet and a handful of increases and decreases, so if you know the basics you can finish one in an evening.
 
 ## Materials
 
@@ -65,3 +65,5 @@ Fold flat and sew to the top of the head, angled slightly outward.
 Embroider a small nose and mouth with a few strands of pink or brown yarn. Weave in all ends. Give your bunny a gentle fluff and it's ready for a new home!
 
 *Tip: if your stitches look loose, drop down half a hook size — amigurumi should be worked tightly so stuffing doesn't peek through.*
+
+New to reading amigurumi patterns? See [how to read a crochet pattern](/patterns/reading-a-pattern) for what the abbreviations and round counts mean. More beginner-friendly amigurumi: the [owl](/patterns/crochet-owl) and the [strawberry](/patterns/crochet-strawberry).

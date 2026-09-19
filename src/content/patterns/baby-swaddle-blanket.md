@@ -51,3 +51,5 @@ Work 3 rounds of sc evenly around the entire outer edge, working 3 sc in each co
 Weave in all ends securely — baby items get washed frequently, so extra-secure ends matter. Block gently and let dry flat.
 
 *Tip: 100% cotton is the safest choice for anything that will be near a baby's face during swaddling — it's breathable, hypoallergenic for most babies, and holds up well to frequent washing.*
+
+For a matching set, see the [baby beanie](/patterns/baby-beanie-hat) and [baby booties](/patterns/baby-booties). Looking for a larger crib blanket? Try the [ripple baby blanket](/patterns/ripple-baby-blanket).

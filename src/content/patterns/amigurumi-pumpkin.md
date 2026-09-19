@@ -69,3 +69,5 @@ Lightly stuff, fasten off leaving a tail, and sew to the center top of the pumpk
 Weave in all ends. If making a garland, attach a loop of yarn or string through the top before sewing on the stem so the attachment point is hidden.
 
 *Tip: for a more dramatic ridged look, pull the surface-stitch lines slightly tighter — it deepens the grooves and makes the pumpkin shape read more clearly from a distance.*
+
+Top it with the mini [witch hat](/patterns/witch-hat), or scatter several along a mantel with the [ghost garland](/patterns/ghost-garland).

@@ -64,3 +64,5 @@ With white or yellow yarn, embroider two small dot eyes on the front of the body
 Weave in all ends. Attach a small loop of twine or ribbon to the top for hanging.
 
 *Tip: crochet a batch of 8-10 bats in one sitting and string them along a mantel — they're small enough to go quickly once you've made the first one.*
+
+More pieces for a Halloween display: the [ghost garland](/patterns/ghost-garland) and the [spiderweb coasters](/patterns/spiderweb-coasters).

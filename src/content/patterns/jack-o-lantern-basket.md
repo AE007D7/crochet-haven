@@ -71,3 +71,5 @@ Fasten off, leaving a tail. Lightly stuff and sew to the center of a small flatt
 Weave in all ends. Fill with candy, small toys, or use as general seasonal storage.
 
 *Tip: work the entire piece in a tight gauge (go down half a hook size from the yarn label's suggestion) — a dense fabric is essential for the basket to hold its shape when filled.*
+
+Need something to carry candy instead of display it? See the [trick-or-treat bag](/patterns/trick-or-treat-bag). The [candy corn](/patterns/candy-corn-amigurumi) makes a fun filler.

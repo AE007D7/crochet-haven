@@ -68,3 +68,5 @@ Arrange 2-3 holly leaves in a small cluster and sew to one section of the wreath
 Weave in all ends. Attach a small loop of ribbon or yarn to the top of the wreath for hanging.
 
 *Tip: working the leaves in two slightly different shades of green (if you have both on hand) adds subtle depth and makes the cluster look more like real foliage.*
+
+More holiday decorations: the [Christmas tree garland](/patterns/christmas-tree-garland) and the [Christmas gnome](/patterns/christmas-gnome).

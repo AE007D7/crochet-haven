@@ -70,3 +70,5 @@ Sew the ends of each handle to the inside top edge of the bag, spacing them even
 Weave in all ends. If desired, add a fabric lining with an inner pocket for keys and phone, since the mesh body itself is open-weave and won't contain small loose items.
 
 *Tip: cotton yarn is essential here — it holds its shape when wet and dries quickly, unlike acrylic, which makes it ideal for actual beach use.*
+
+For a denser everyday tote, see the [market tote bag](/patterns/market-tote-bag). For a bag that cinches closed, see the [drawstring backpack](/patterns/drawstring-backpack).

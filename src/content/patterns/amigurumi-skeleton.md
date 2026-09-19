@@ -79,3 +79,5 @@ Fasten off, stuff lightly, and sew to the ends of each limb.
 Weave in all ends. Add a small bow tie or hat for extra personality if desired.
 
 *Tip: keep the embroidered "bone" lines simple and evenly spaced — a few clean curved stitches read more clearly as a ribcage than dense detailed lines.*
+
+More friendly Halloween characters: the [mummy](/patterns/amigurumi-mummy) and the [spider](/patterns/amigurumi-spider).
