@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Fraunces, Inter } from "next/font/google";
-import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import "./globals.css";
@@ -54,18 +53,21 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="en"
       className={`${bodyFont.variable} ${displayFont.variable} h-full antialiased`}
     >
+      <head>
+        {/* Google AdSense: must be a literal script tag in the page HTML so
+            Google's crawler can detect it without running JavaScript. */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6016810252610288"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="min-h-full flex flex-col font-sans">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(websiteJsonLd).replace(/</g, "\\u003c"),
           }}
-        />
-        <Script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6016810252610288"
-          crossOrigin="anonymous"
-          strategy="beforeInteractive"
         />
         <Header />
         <main className="flex-1">{children}</main>
