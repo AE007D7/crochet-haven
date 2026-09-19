@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     template: "%s | Chtatou",
   },
   description:
-    "Free, tested crochet patterns for amigurumi, blankets, clothing, and accessories, plus beginner-friendly tutorials.",
+    "Free crochet patterns for amigurumi, blankets, clothing, and accessories, plus beginner-friendly tutorials.",
   alternates: {
     canonical: "/",
   },
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     siteName: "Chtatou",
     title: "Chtatou — Free Crochet Patterns & Tutorials",
     description:
-      "Free, tested crochet patterns for amigurumi, blankets, clothing, and accessories, plus beginner-friendly tutorials.",
+      "Free crochet patterns for amigurumi, blankets, clothing, and accessories, plus beginner-friendly tutorials.",
   },
   twitter: {
     card: "summary_large_image",

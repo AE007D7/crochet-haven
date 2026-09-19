@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
       <h1 className="font-display text-3xl mb-6">Privacy Policy</h1>
       <div className="prose-crochet">
         <p>
-          <em>Last updated: September 14, 2026.</em>
+          <em>Last updated: September 19, 2026.</em>
         </p>
 
         <h2>Overview</h2>
@@ -53,12 +53,13 @@ export default function PrivacyPolicyPage() {
           .
         </p>
 
-        <h2>Analytics</h2>
+        <h2>Analytics and server logs</h2>
         <p>
-          We may use analytics services (such as Google Analytics) to
-          understand how visitors use this site. These services may collect
-          information such as your IP address, browser type, and pages
-          visited.
+          This site does not currently use a third-party analytics service.
+          Our hosting provider (Vercel) processes standard server logs, such
+          as your IP address, browser type, and the pages requested, in order
+          to deliver and secure the site. If we add an analytics service in
+          the future, we will update this policy.
         </p>
 
         <h2>Third-Party Links</h2>

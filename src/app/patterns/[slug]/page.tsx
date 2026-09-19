@@ -140,7 +140,7 @@ export default async function PatternPage(
         title={pattern.title}
       />
 
-      <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-8">
+      <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-2">
         <Image
           src={pattern.image}
           alt={pattern.title}
@@ -149,6 +149,9 @@ export default async function PatternPage(
           priority
         />
       </div>
+      <p className="mb-8 text-xs text-muted">
+        AI-generated illustration. Your finished project may look different.
+      </p>
 
       <div className="flex flex-wrap gap-3 mb-10 text-sm">
         <span className="rounded-full bg-accent-soft text-accent-hover px-3 py-1 font-medium">

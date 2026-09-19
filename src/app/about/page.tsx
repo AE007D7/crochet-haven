@@ -34,6 +34,17 @@ export default function AboutPage() {
           <li>Bags, hats, and other accessories</li>
           <li>Tutorials for stitches and techniques</li>
         </ul>
+        <h2>About our patterns and images</h2>
+        <p>
+          The written patterns on Chtatou are drafted with the help of AI, and
+          not every pattern has been test-crocheted yet. Treat each one as a
+          starting point: make a gauge swatch and adjust as needed.
+        </p>
+        <p>
+          The images are AI-generated illustrations of the finished projects,
+          not photographs of items we crocheted, so your own result may look a
+          little different.
+        </p>
         <p>
           New patterns are added regularly. If there's something you'd love to
           see a pattern for, get in touch on the{" "}

@@ -27,9 +27,9 @@ export default function Home() {
               Cozy patterns, made for every skill level.
             </h1>
             <p className="text-muted text-lg leading-relaxed mb-8 max-w-md">
-              From your first amigurumi to a full wardrobe cardigan — tested,
-              written-out patterns with clear photos and beginner-friendly
-              tips.
+              From your first amigurumi to a full wardrobe cardigan —
+              written-out patterns with stitch counts, materials lists, and
+              beginner-friendly tips.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link

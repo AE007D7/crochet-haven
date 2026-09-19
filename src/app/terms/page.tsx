@@ -14,7 +14,7 @@ export default function TermsPage() {
       <h1 className="font-display text-3xl mb-6">Terms of Use</h1>
       <div className="prose-crochet">
         <p>
-          <em>Last updated: September 14, 2026.</em>
+          <em>Last updated: September 19, 2026.</em>
         </p>
 
         <h2>Use of Patterns</h2>
@@ -27,9 +27,10 @@ export default function TermsPage() {
 
         <h2>No Warranty</h2>
         <p>
-          Patterns are provided "as is." While we test our patterns, we make
-          no guarantees about fit, accuracy, or suitability for a particular
-          purpose.
+          Patterns are provided "as is." We do our best to keep them accurate,
+          but not every pattern has been test-crocheted, and we make no
+          guarantees about fit, accuracy, or suitability for a particular
+          purpose. Please make a gauge swatch and adjust as needed.
         </p>
 
         <h2>Changes</h2>
