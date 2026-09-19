@@ -1,5 +1,5 @@
 ---
-title: "How to Read a Crochet Pattern: Abbreviations & Symbols Explained"
+title: "How to Read a Crochet Pattern: Abbreviations Explained"
 description: "A beginner's guide to crochet pattern abbreviations, asterisks, and stitch counts — learn how to decode any crochet pattern like a pro."
 category: "tutorials"
 difficulty: "Beginner"

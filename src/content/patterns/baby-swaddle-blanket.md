@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Swaddle Blanket Pattern (Easy Soft Receiving Blanket)"
+title: "Crochet Baby Swaddle Blanket Pattern (Easy Shell Stitch)"
 description: "Free crochet baby swaddle blanket pattern in a soft shell stitch — a lightweight, breathable blanket perfect for newborns."
 category: "blankets"
 difficulty: "Easy"

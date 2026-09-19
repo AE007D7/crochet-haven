@@ -1,6 +1,6 @@
 ---
 title: "Amigurumi Bunny Pattern (Easy Crochet Bunny for Beginners)"
-description: "Free amigurumi bunny crochet pattern with step-by-step instructions and stitch counts — a soft, floppy-eared bunny that's perfect for your first amigurumi project."
+description: "Free amigurumi bunny crochet pattern with step-by-step instructions and stitch counts — a soft, floppy-eared bunny that suits a first amigurumi project."
 category: "amigurumi"
 difficulty: "Beginner"
 date: "2026-09-12"

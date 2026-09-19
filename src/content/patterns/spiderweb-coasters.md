@@ -1,5 +1,5 @@
 ---
-title: "Crochet Spiderweb Coasters Pattern (Easy Halloween Table Decor)"
+title: "Crochet Spiderweb Coasters Pattern (Easy Halloween Decor)"
 description: "Free crochet spiderweb coaster pattern — quick, flat motifs that make festive Halloween table decor or drink coasters."
 category: "accessories"
 difficulty: "Beginner"

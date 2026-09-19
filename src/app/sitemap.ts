@@ -1,7 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllPatternSummaries, CATEGORIES } from "@/lib/patterns";
-
-const SITE_URL = "https://chtatou.com";
+import { SITE_URL } from "@/lib/site";
 
 // lastModified is taken from each article's real publication date rather than
 // the build time, so the sitemap never claims content changed when it did not.

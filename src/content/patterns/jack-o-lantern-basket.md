@@ -1,5 +1,5 @@
 ---
-title: "Crochet Jack-O-Lantern Basket Pattern (Easy Halloween Candy Bowl)"
+title: "Crochet Jack-O-Lantern Basket Pattern (Easy Candy Bowl)"
 description: "Free crochet jack-o-lantern basket pattern — a sturdy pumpkin-shaped bowl for holding candy or small treats."
 category: "accessories"
 difficulty: "Easy"

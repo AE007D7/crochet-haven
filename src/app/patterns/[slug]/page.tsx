@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import {
+  getCategoryLabel,
   getAllPatternSlugs,
   getPatternBySlug,
   getAllPatternSummaries,
@@ -10,6 +11,7 @@ import {
 import PatternCard from "@/components/PatternCard";
 import AdSlot from "@/components/AdSlot";
 import ArticleActions from "@/components/ArticleActions";
+import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 function formatDate(iso: string) {
   return new Date(iso).toLocaleDateString("en-US", {
@@ -31,7 +33,7 @@ export async function generateMetadata(
   if (!pattern) return {};
 
   return {
-    title: pattern.title,
+    title: { absolute: pattern.title },
     description: pattern.description,
     alternates: {
       canonical: `/patterns/${slug}`,
@@ -43,8 +45,6 @@ export async function generateMetadata(
     },
   };
 }
-
-const SITE_URL = "https://chtatou.com";
 
 export default async function PatternPage(
   props: PageProps<"/patterns/[slug]">
@@ -62,31 +62,33 @@ export default async function PatternPage(
     ? pattern.image
     : `${SITE_URL}${pattern.image}`;
 
-  const howToJsonLd = {
+  const publisher = {
+    "@type": "Organization",
+    name: SITE_NAME,
+    url: SITE_URL,
+  };
+  const articleJsonLd = {
     "@context": "https://schema.org",
-    "@type": "HowTo",
-    name: pattern.title,
+    "@type": "Article",
+    headline: pattern.title,
     description: pattern.description,
-    image: imageUrl,
-    totalTime: undefined,
-    estimatedCost: undefined,
-    supply: [
-      pattern.yarnWeight ? { "@type": "HowToSupply", name: pattern.yarnWeight } : null,
-    ].filter(Boolean),
-    tool: [
-      pattern.hookSize ? { "@type": "HowToTool", name: pattern.hookSize } : null,
-    ].filter(Boolean),
+    image: [imageUrl],
+    datePublished: pattern.date,
+    dateModified: pattern.updated ?? pattern.date,
+    author: { ...publisher, url: `${SITE_URL}/about` },
+    publisher,
+    mainEntityOfPage: pageUrl,
   };
 
   const breadcrumbJsonLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Patterns", item: `${SITE_URL}/patterns` },
+      { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
       {
         "@type": "ListItem",
         position: 2,
-        name: pattern.category,
+        name: getCategoryLabel(pattern.category),
         item: `${SITE_URL}/categories/${pattern.category}`,
       },
       { "@type": "ListItem", position: 3, name: pattern.title, item: pageUrl },
@@ -98,7 +100,7 @@ export default async function PatternPage(
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(howToJsonLd).replace(/</g, "\\u003c"),
+          __html: JSON.stringify(articleJsonLd).replace(/</g, "\\u003c"),
         }}
       />
       <script

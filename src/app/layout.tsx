@@ -3,6 +3,7 @@ import { Fraunces, Inter } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import "./globals.css";
+import { SITE_URL } from "@/lib/site";
 
 const bodyFont = Inter({
   variable: "--font-body",
@@ -14,8 +15,6 @@ const displayFont = Fraunces({
   subsets: ["latin"],
   weight: ["500", "600", "700"],
 });
-
-const SITE_URL = "https://chtatou.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

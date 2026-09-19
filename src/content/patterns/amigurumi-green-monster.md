@@ -1,5 +1,5 @@
 ---
-title: "Crochet Green Monster Pattern (Easy Amigurumi Halloween Monster)"
+title: "Crochet Green Monster Pattern (Easy Amigurumi Monster)"
 description: "Free amigurumi green monster crochet pattern with a fuzzy tuft and a friendly grin — an original, cheerful Halloween-themed plushie."
 category: "amigurumi"
 difficulty: "Intermediate"

@@ -42,13 +42,21 @@ export const CATEGORIES: { slug: Category; label: string; description: string }[
   },
 ];
 
+export function getCategoryLabel(slug: string): string {
+  return CATEGORIES.find((c) => c.slug === slug)?.label ?? slug;
+}
+
 export interface PatternFrontmatter {
   title: string;
   description: string;
   category: Category;
   difficulty: "Beginner" | "Easy" | "Intermediate" | "Advanced";
   date: string;
+  /** Only set when an article is materially revised; never auto-generated. */
+  updated?: string;
   image: string;
+  /** Describes what the picture shows (not a keyword title). */
+  imageAlt?: string;
   yarnWeight?: string;
   hookSize?: string;
   estimatedTime?: string;
