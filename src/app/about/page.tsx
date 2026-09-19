@@ -29,10 +29,10 @@ export default function AboutPage() {
         <h2>What you&apos;ll find here</h2>
         <ul>
           <li>Amigurumi toys and characters</li>
-          <li>Blankets, throws, and granny square projects</li>
-          <li>Wearable clothing patterns</li>
-          <li>Bags, hats, and other accessories</li>
-          <li>Tutorials for stitches and techniques</li>
+          <li>Wearables: hats, scarves, and baby clothes</li>
+          <li>Bags and purses</li>
+          <li>Blankets, seasonal decorations, and home decor</li>
+          <li>A beginner&apos;s guide to reading crochet patterns</li>
         </ul>
         <h2>About our patterns and images</h2>
         <p>
@@ -46,9 +46,10 @@ export default function AboutPage() {
           little different.
         </p>
         <p>
-          New patterns are added regularly. If there&apos;s something you&apos;d love to
-          see a pattern for, get in touch on the{" "}
-          <a href="/contact">contact page</a>.
+          New patterns are added from time to time. If there&apos;s something
+          you&apos;d love to see a pattern for, or you spot a mistake, contact
+          the site owner through the <a href="/contact">contact page</a> or at{" "}
+          <a href="mailto:chtatoucochet@gmail.com">chtatoucochet@gmail.com</a>.
         </p>
       </div>
     </div>

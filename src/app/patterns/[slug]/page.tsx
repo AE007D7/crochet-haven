@@ -128,7 +128,13 @@ export default async function PatternPage(
         {pattern.title}
       </h1>
       <p className="text-sm text-muted mb-4">
-        By Chtatou &middot; {formatDate(pattern.date)} &middot; in{" "}
+        By{" "}
+        <Link href="/about" className="hover:text-accent hover:underline">
+          {SITE_NAME}
+        </Link>{" "}
+        &middot; {formatDate(pattern.date)}
+        {pattern.updated && <> &middot; Updated {formatDate(pattern.updated)}</>}{" "}
+        &middot; in{" "}
         <Link
           href={`/categories/${pattern.category}`}
           className="hover:text-accent"
@@ -208,6 +214,24 @@ export default async function PatternPage(
         className="prose-crochet"
         dangerouslySetInnerHTML={{ __html: pattern.contentHtml }}
       />
+
+      <aside
+        aria-label="About the publisher"
+        className="mt-10 rounded-2xl border border-border bg-surface p-5 print:hidden"
+      >
+        <p className="font-display text-lg mb-1">Published by {SITE_NAME}</p>
+        <p className="text-sm text-muted leading-relaxed">
+          {SITE_NAME} publishes free crochet patterns. Read{" "}
+          <Link href="/about" className="text-accent underline">
+            how our patterns and images are made
+          </Link>
+          , or{" "}
+          <Link href="/contact" className="text-accent underline">
+            get in touch
+          </Link>{" "}
+          if you spot a mistake.
+        </p>
+      </aside>
 
       <AdSlot variant="in-content" className="mt-10" />
 
