@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { AUTHOR_NAME } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About",
@@ -34,6 +35,12 @@ export default function AboutPage() {
           <li>Blankets, seasonal decorations, and home decor</li>
           <li>A beginner&apos;s guide to reading crochet patterns</li>
         </ul>
+        <h2>Who publishes Chtatou</h2>
+        <p>
+          Patterns on Chtatou are published under the name {AUTHOR_NAME}. For
+          questions, corrections or requests, contact the site owner at{" "}
+          <a href="mailto:chtatoucochet@gmail.com">chtatoucochet@gmail.com</a>.
+        </p>
         <h2>About our patterns and images</h2>
         <p>
           The written patterns on Chtatou are drafted with the help of AI, and

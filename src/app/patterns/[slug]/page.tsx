@@ -10,7 +10,7 @@ import {
 } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
 import ArticleActions from "@/components/ArticleActions";
-import { SITE_NAME, SITE_URL } from "@/lib/site";
+import { AUTHOR_NAME, SITE_NAME, SITE_URL } from "@/lib/site";
 
 function formatDate(iso: string) {
   return new Date(iso).toLocaleDateString("en-US", {
@@ -81,7 +81,7 @@ export default async function PatternPage(
       : {}),
     datePublished: pattern.date,
     dateModified: pattern.updated ?? pattern.date,
-    author: { ...publisher, url: `${SITE_URL}/about` },
+    author: { "@type": "Person", name: AUTHOR_NAME, url: `${SITE_URL}/about` },
     publisher,
     mainEntityOfPage: pageUrl,
   };
@@ -136,7 +136,7 @@ export default async function PatternPage(
       <p className="text-sm text-muted mb-4">
         By{" "}
         <Link href="/about" className="hover:text-accent hover:underline">
-          {SITE_NAME}
+          {AUTHOR_NAME}
         </Link>{" "}
         &middot; {formatDate(pattern.date)}
         {pattern.updated && <> &middot; Updated {formatDate(pattern.updated)}</>}{" "}
@@ -271,9 +271,9 @@ export default async function PatternPage(
         aria-label="About the publisher"
         className="mt-10 rounded-2xl border border-border bg-surface p-5 print:hidden"
       >
-        <p className="font-display text-lg mb-1">Published by {SITE_NAME}</p>
+        <p className="font-display text-lg mb-1">About {AUTHOR_NAME}</p>
         <p className="text-sm text-muted leading-relaxed">
-          {SITE_NAME} publishes free crochet patterns. Read{" "}
+          Patterns on {SITE_NAME} are published under the name {AUTHOR_NAME}. Read{" "}
           <Link href="/about" className="text-accent underline">
             how our patterns and images are made
           </Link>
