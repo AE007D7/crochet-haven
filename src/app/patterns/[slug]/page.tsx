@@ -40,7 +40,7 @@ export async function generateMetadata(
     openGraph: {
       title: pattern.title,
       description: pattern.description,
-      images: [{ url: pattern.image }],
+      ...(pattern.image ? { images: [{ url: pattern.image }] } : {}),
     },
   };
 }
@@ -57,9 +57,12 @@ export default async function PatternPage(
     .slice(0, 3);
 
   const pageUrl = `${SITE_URL}/patterns/${slug}`;
-  const imageUrl = pattern.image.startsWith("http")
-    ? pattern.image
-    : `${SITE_URL}${pattern.image}`;
+  const imageUrl = pattern.image
+    ? pattern.image.startsWith("http")
+      ? pattern.image
+      : `${SITE_URL}${pattern.image}`
+    : undefined;
+  const pinUrl = pattern.pinImage ? `${SITE_URL}${pattern.pinImage}` : undefined;
 
   const publisher = {
     "@type": "Organization",
@@ -71,7 +74,7 @@ export default async function PatternPage(
     "@type": "Article",
     headline: pattern.title,
     description: pattern.description,
-    image: [imageUrl],
+    ...(imageUrl || pinUrl ? { image: [imageUrl, pinUrl].filter(Boolean) } : {}),
     datePublished: pattern.date,
     dateModified: pattern.updated ?? pattern.date,
     author: { ...publisher, url: `${SITE_URL}/about` },
@@ -146,21 +149,26 @@ export default async function PatternPage(
       <ArticleActions
         pageUrl={pageUrl}
         imageUrl={imageUrl}
+        pinImageUrl={pinUrl}
         title={pattern.title}
       />
 
-      <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-2">
-        <Image
-          src={pattern.image}
-          alt={pattern.imageAlt ?? pattern.title}
-          fill
-          className="object-cover"
-          priority
-        />
-      </div>
-      <p className="mb-8 text-xs text-muted">
-        AI-generated illustration. Your finished project may look different.
-      </p>
+      {pattern.image && (
+        <>
+          <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-2">
+            <Image
+              src={pattern.image}
+              alt={pattern.imageAlt ?? pattern.title}
+              fill
+              className="object-cover"
+              priority
+            />
+          </div>
+          <p className="mb-8 text-xs text-muted">
+            AI-generated illustration. Your finished project may look different.
+          </p>
+        </>
+      )}
 
       <div className="flex flex-wrap gap-3 mb-10 text-sm">
         <span className="rounded-full bg-accent-soft text-accent-hover px-3 py-1 font-medium">
@@ -211,6 +219,22 @@ export default async function PatternPage(
         className="prose-crochet"
         dangerouslySetInnerHTML={{ __html: pattern.contentHtml }}
       />
+
+      {pattern.pinImage && (
+        <section
+          aria-label="Save this pattern"
+          className="mt-10 rounded-2xl border border-border bg-surface p-5 text-center print:hidden"
+        >
+          <p className="font-display text-lg mb-3">Save this pattern for later</p>
+          <Image
+            src={pattern.pinImage}
+            alt={`Pinterest pin for ${pattern.title}`}
+            width={400}
+            height={600}
+            className="mx-auto h-auto w-full max-w-xs rounded-xl border border-border"
+          />
+        </section>
+      )}
 
       <aside
         aria-label="About the publisher"

@@ -4,6 +4,7 @@ description: "Free crochet witch hat pattern to wear: a tall cone, wide brim and
 category: "wearables"
 difficulty: "Easy"
 date: "2026-09-20"
+cardEmoji: "🧙"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "5.0mm (H-8)"
 estimatedTime: "3-4 hours"
@@ -130,4 +131,4 @@ Bend the top 2 in (5 cm) of the cone to one side. To make it stay, tack it to th
 
 You now have a crochet witch hat that you can actually wear, with a tall cone, a flat brim and a bold hat band. Try it on before you weave in the last ends: the cone should sit snugly on the head, and the brim should sit level.
 
-For a whole Halloween look, add a [witch broom](/patterns/witch-broom-ornament) as a prop and a [black cat](/patterns/black-cat-amigurumi) to keep you company. Wash gently by hand and dry the hat flat with the brim smoothed out, so that it keeps its shape until next year.
+For a whole Halloween look, add a [witch broom](/patterns/witch-broom-ornament) as a prop and a [black cat](/patterns/black-cat-amigurumi) to keep you company. Wash gently by hand and dry the hat flat with the brim smoothed out, so that it keeps its shape until next year. Pair it with the [fingerless gloves](/patterns/fingerless-gloves) for cold evenings.

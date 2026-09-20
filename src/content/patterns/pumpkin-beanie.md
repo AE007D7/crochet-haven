@@ -4,6 +4,7 @@ description: "Free crochet pumpkin beanie pattern for kids and adults: an easy t
 category: "wearables"
 difficulty: "Easy"
 date: "2026-09-20"
+cardEmoji: "🎃"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "5.0mm (H-8)"
 estimatedTime: "2-3 hours"
@@ -110,4 +111,4 @@ For the leaf, use green yarn: ch 8, sl st in the 2nd ch from the hook, sc, hdc, 
 
 You now have a soft, stretchy crochet pumpkin beanie that is instantly recognisable as a Halloween hat. Because the ridges are surface stitches, you can add or leave out as many as you like: six gives a classic pumpkin, and four gives a rounder, simpler look.
 
-To keep the ridges crisp, follow the care instructions on your yarn label and dry the hat flat. For an everyday winter hat in the same style, try the [chunky ribbed beanie](/patterns/chunky-beanie). If a baby is joining the fun, the [baby beanie](/patterns/baby-beanie-hat) works well in orange too, and the [crochet pumpkin](/patterns/amigurumi-pumpkin) makes a matching decoration.
+To keep the ridges crisp, follow the care instructions on your yarn label and dry the hat flat. For an everyday winter hat in the same style, try the [chunky ribbed beanie](/patterns/chunky-beanie). If a baby is joining the fun, the [baby beanie](/patterns/baby-beanie-hat) works well in orange too, and the [crochet pumpkin](/patterns/amigurumi-pumpkin) makes a matching decoration. To finish a costume, see the [witch costume hat](/patterns/witch-costume-hat) and the [fingerless gloves](/patterns/fingerless-gloves).

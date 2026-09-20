@@ -4,6 +4,7 @@ description: "Free crochet fingerless gloves pattern in Halloween stripes: worke
 category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-20"
+cardEmoji: "🧤"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.5mm (G-7)"
 estimatedTime: "2-3 hours"
@@ -67,4 +68,4 @@ Repeat Steps 1 to 3. The two gloves are identical: turn each one so that the thu
 
 You now have a pair of crochet fingerless gloves in Halloween stripes that keep your wrists warm while leaving your fingers free for texting, trick-or-treating and holding a mug.
 
-For a matching set, try the [chunky ribbed beanie](/patterns/chunky-beanie) and the [infinity scarf](/patterns/infinity-scarf). Change the stripe width to make them your own: one-row stripes give a busier look, and four-row stripes give a bolder one. Hand wash them and dry them flat.
+For a matching set, try the [chunky ribbed beanie](/patterns/chunky-beanie) and the [infinity scarf](/patterns/infinity-scarf). Change the stripe width to make them your own: one-row stripes give a busier look, and four-row stripes give a bolder one. Hand wash them and dry them flat. They also go well with the [pumpkin beanie](/patterns/pumpkin-beanie).

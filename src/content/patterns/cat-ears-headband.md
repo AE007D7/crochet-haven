@@ -4,6 +4,7 @@ description: "Free crochet cat ears headband pattern: a stretchy band with two t
 category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-20"
+cardEmoji: "🐱"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.5mm (G-7)"
 estimatedTime: "1-1.5 hours"
@@ -85,4 +86,4 @@ Work Rows 1 to 6 exactly as for the outer ears, then fasten off.
 
 That is all it takes to make a crochet cat ears headband that looks the part and stays comfortable. Because the band is plain single crochet, it stretches over hair and sits flat on the head.
 
-For a matching costume, pair it with the [infinity scarf](/patterns/infinity-scarf) or add the [black cat amigurumi](/patterns/black-cat-amigurumi) as a sidekick. Try white or grey ears for a different cat, and add small embroidered whiskers on the cheek with the leftover yarn.
+For a matching costume, pair it with the [infinity scarf](/patterns/infinity-scarf) or add the [black cat amigurumi](/patterns/black-cat-amigurumi) as a sidekick. Try white or grey ears for a different cat, and add small embroidered whiskers on the cheek with the leftover yarn. Add the [fingerless gloves](/patterns/fingerless-gloves) to finish the look.

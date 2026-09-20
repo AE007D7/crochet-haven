@@ -5,12 +5,18 @@ import HeroSlider from "@/components/HeroSlider";
 
 export default function Home() {
   const patterns = getAllPatternSummaries();
-  const featured = patterns.slice(0, 3);
-  const rest = patterns.slice(3);
-  const heroSlides = patterns.slice(0, 6).map((p) => ({
+  // The home page only features articles that already have a picture, so it
+  // looks the same as before; the others still appear on /patterns and in
+  // their category, and join the home page as soon as they get an image.
+  const withImages = patterns.filter((p) => p.image);
+  const featured = withImages.slice(0, 3);
+  const rest = withImages.slice(3);
+  const heroSlides = withImages
+    .slice(0, 6)
+    .map((p) => ({
     slug: p.slug,
     title: p.title,
-    image: p.image,
+    image: p.image as string,
     alt: p.imageAlt ?? p.title,
   }));
 

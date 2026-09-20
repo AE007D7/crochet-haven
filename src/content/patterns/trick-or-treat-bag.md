@@ -63,4 +63,4 @@ Weave in all ends. Work 1 round of sc around the top opening if desired for a cl
 
 *Tip: work the base and lower third of the bag with an extra strand of yarn held together for reinforcement — trick-or-treat bags take a lot of stress from a full night of candy collecting.*
 
-For a pumpkin-shaped candy bowl to leave on the porch, see the [jack-o-lantern basket](/patterns/jack-o-lantern-basket). For a baby's first Halloween, there is also a [Halloween baby bib](/patterns/halloween-baby-bib).
+For a pumpkin-shaped candy bowl to leave on the porch, see the [jack-o-lantern basket](/patterns/jack-o-lantern-basket). For a baby's first Halloween, there is also a [Halloween baby bib](/patterns/halloween-baby-bib). For a costume to go with it, see the [vampire cape](/patterns/vampire-cape).

@@ -69,7 +69,12 @@ export interface PatternFrontmatter {
   date: string;
   /** Only set when an article is materially revised; never auto-generated. */
   updated?: string;
-  image: string;
+  /** Optional. Articles without a picture yet show an icon card instead. */
+  image?: string;
+  /** Optional tall (2:3) Pinterest pin with text on it; used by the Pin button. */
+  pinImage?: string;
+  /** Emoji shown on the icon card when there is no image. */
+  cardEmoji?: string;
   /** Describes what the picture shows (not a keyword title). */
   imageAlt?: string;
   yarnWeight?: string;

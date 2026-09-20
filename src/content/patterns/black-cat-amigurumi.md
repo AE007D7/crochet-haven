@@ -91,4 +91,4 @@ Embroider a small pink nose and a simple curved mouth. Weave in all ends. Pose t
 
 *Tip: positioning the ears close together and slightly forward gives the cat a more alert, "Halloween spooked" expression, while spreading them apart gives a calmer look.*
 
-To build a Halloween shelf, pair it with the [witch hat](/patterns/witch-hat) and the [crochet pumpkin](/patterns/amigurumi-pumpkin).
+To build a Halloween shelf, pair it with the [witch hat](/patterns/witch-hat) and the [crochet pumpkin](/patterns/amigurumi-pumpkin). Prefer to wear the ears? See the [cat ears headband](/patterns/cat-ears-headband).

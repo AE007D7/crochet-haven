@@ -156,6 +156,7 @@ If you want a crisp, flat brim, cut a circle of cardboard or stiff felt slightly
 - **Amigurumi accessory:** make it slightly larger and sew it onto a doll, a ghost, or the [black cat](/patterns/black-cat-amigurumi)
 - **Ornament or gift topper:** sew a loop of yarn to the tip and hang it, or tie it onto a gift
 - **Garland:** make a batch in different colours and thread them on twine
+- **Wear one:** for a hat that fits a head, see the [witch costume hat](/patterns/witch-costume-hat)
 
 ## Frequently asked questions
 

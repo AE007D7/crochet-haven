@@ -70,4 +70,4 @@ Weave in all ends. If making a garland, attach a loop of yarn or string through 
 
 *Tip: for a more dramatic ridged look, pull the surface-stitch lines slightly tighter — it deepens the grooves and makes the pumpkin shape read more clearly from a distance.*
 
-Top it with the mini [witch hat](/patterns/witch-hat), or scatter several along a mantel with the [ghost garland](/patterns/ghost-garland).
+Top it with the mini [witch hat](/patterns/witch-hat), or scatter several along a mantel with the [ghost garland](/patterns/ghost-garland). Prefer something to wear? See the [pumpkin beanie](/patterns/pumpkin-beanie).

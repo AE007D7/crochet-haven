@@ -4,6 +4,7 @@ description: "Free crochet vampire cape pattern for kids: an easy A-shaped cape 
 category: "wearables"
 difficulty: "Easy"
 date: "2026-09-20"
+cardEmoji: "🦇"
 yarnWeight: "Bulky (Size 5)"
 hookSize: "6.5mm (K-10.5)"
 estimatedTime: "6-8 hours"
@@ -81,4 +82,4 @@ Tie the ties loosely with a bow, and never leave them long enough to catch on an
 
 You have finished a crochet vampire cape with a tall collar, a red edge and an easy A-shape that swings when you walk. It is heavier than a fabric cape, so it hangs nicely and keeps a child warm on chilly trick-or-treat evenings.
 
-Add a [trick-or-treat bag](/patterns/trick-or-treat-bag) and a [bat ornament](/patterns/bat-ornament) to pin on the collar, and you have a full costume. To make a bigger cape for a teen, keep adding pairs of rows before the collar, and use longer ties. Wash it by hand and dry it flat.
+Add a [trick-or-treat bag](/patterns/trick-or-treat-bag) and a [bat ornament](/patterns/bat-ornament) to pin on the collar, and you have a full costume. To make a bigger cape for a teen, keep adding pairs of rows before the collar, and use longer ties. Wash it by hand and dry it flat. For a witch instead of a vampire, see the [witch costume hat](/patterns/witch-costume-hat).
