@@ -5,6 +5,9 @@ category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-20"
 cardEmoji: "🐱"
+pinImage: "/images/patterns/pins/cat-ears-headband.jpg"
+pinAspect: "1 / 1"
+imageAlt: "Black crochet cat ears headband with pink inner ears on a cream blanket, with the title Crochet Cat Ears Headband and the words Free Halloween Pattern"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.5mm (G-7)"
 estimatedTime: "1-1.5 hours"
@@ -36,6 +39,7 @@ This pattern is written in US terms.
 - The band is about 2 in (5 cm) wide. Gauge is about 15 sc in 4 in (10 cm) with a 4.5 mm hook (an estimate).
 - Work the band until it is about 3 in (7.5 cm) shorter than the head measurement. For an adult with a 22 in (56 cm) head, make it about 19 in (48 cm) long. For a child with a 20 in (51 cm) head, make it about 17 in (43 cm) long. Crochet stretches, so a snug band stays on.
 - Each ear is about 2 in (5 cm) tall.
+- The illustration shows a slim headband. This pattern makes a wider, stretchy band that needs no plastic base, so your headband will look a little different.
 
 ## How to crochet the cat ears headband
 

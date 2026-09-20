@@ -73,6 +73,8 @@ export interface PatternFrontmatter {
   image?: string;
   /** Optional tall (2:3) Pinterest pin with text on it; used by the Pin button. */
   pinImage?: string;
+  /** CSS aspect ratio of the pin, e.g. "1 / 1" or "2 / 3". Defaults to 2 / 3. */
+  pinAspect?: string;
   /** Emoji shown on the icon card when there is no image. */
   cardEmoji?: string;
   /** Describes what the picture shows (not a keyword title). */

@@ -5,6 +5,9 @@ category: "wearables"
 difficulty: "Easy"
 date: "2026-09-20"
 cardEmoji: "🧙"
+pinImage: "/images/patterns/pins/witch-costume-hat.jpg"
+pinAspect: "1 / 1"
+imageAlt: "Black crochet witch hat with a purple band and gold buckle on a wooden stand, with the title Crochet Witch Hat and the words Free Pattern for Kids and Adults"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "5.0mm (H-8)"
 estimatedTime: "3-4 hours"
@@ -118,6 +121,10 @@ The brim flares out from the base of the cone. Each round adds 6 stitches, so th
 - **Round 49:** sc around (132)
 
 Slip stitch into the next stitch, fasten off and weave in your ends.
+
+### Optional: add a buckle
+
+With gold-yellow yarn and the yarn needle, embroider a small square on the front of the hat band: four straight stitches for the outer square, then four shorter stitches inside it, as in the illustration.
 
 ### Step 4: shape the brim (optional)
 

@@ -40,7 +40,9 @@ export async function generateMetadata(
     openGraph: {
       title: pattern.title,
       description: pattern.description,
-      ...(pattern.image ? { images: [{ url: pattern.image }] } : {}),
+      ...(pattern.image ?? pattern.pinImage
+        ? { images: [{ url: (pattern.image ?? pattern.pinImage) as string }] }
+        : {}),
     },
   };
 }
@@ -153,7 +155,7 @@ export default async function PatternPage(
         title={pattern.title}
       />
 
-      {pattern.image && (
+      {pattern.image ? (
         <>
           <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-2">
             <Image
@@ -168,6 +170,28 @@ export default async function PatternPage(
             AI-generated illustration. Your finished project may look different.
           </p>
         </>
+      ) : (
+        pattern.pinImage && (
+          <>
+            {/* No plain photo yet: show the pin at its own shape so its text is not cropped. */}
+            <div
+              className="relative mx-auto mb-2 w-full max-w-xl overflow-hidden rounded-2xl border border-border bg-accent-soft"
+              style={{ aspectRatio: pattern.pinAspect ?? "2 / 3" }}
+            >
+              <Image
+                src={pattern.pinImage}
+                alt={pattern.imageAlt ?? pattern.title}
+                fill
+                sizes="(min-width: 768px) 576px, 100vw"
+                className="object-cover"
+                priority
+              />
+            </div>
+            <p className="mb-8 text-xs text-muted">
+              AI-generated illustration. Your finished project may look different.
+            </p>
+          </>
+        )
       )}
 
       <div className="flex flex-wrap gap-3 mb-10 text-sm">
@@ -220,19 +244,24 @@ export default async function PatternPage(
         dangerouslySetInnerHTML={{ __html: pattern.contentHtml }}
       />
 
-      {pattern.pinImage && (
+      {pattern.pinImage && pattern.image && (
         <section
           aria-label="Save this pattern"
           className="mt-10 rounded-2xl border border-border bg-surface p-5 text-center print:hidden"
         >
           <p className="font-display text-lg mb-3">Save this pattern for later</p>
-          <Image
-            src={pattern.pinImage}
-            alt={`Pinterest pin for ${pattern.title}`}
-            width={400}
-            height={600}
-            className="mx-auto h-auto w-full max-w-xs rounded-xl border border-border"
-          />
+          <div
+            className="relative mx-auto w-full max-w-xs overflow-hidden rounded-xl border border-border"
+            style={{ aspectRatio: pattern.pinAspect ?? "2 / 3" }}
+          >
+            <Image
+              src={pattern.pinImage}
+              alt={`Pinterest pin for ${pattern.title}`}
+              fill
+              sizes="320px"
+              className="object-cover"
+            />
+          </div>
         </section>
       )}
 

@@ -5,6 +5,9 @@ category: "wearables"
 difficulty: "Beginner"
 date: "2026-09-20"
 cardEmoji: "🧤"
+pinImage: "/images/patterns/pins/fingerless-gloves.jpg"
+pinAspect: "1 / 1"
+imageAlt: "Pair of orange and black striped crochet fingerless gloves with a spiderweb detail, with the title Crochet Fingerless Gloves and the words Free Halloween Stripes Pattern"
 yarnWeight: "Worsted (Size 4)"
 hookSize: "4.5mm (G-7)"
 estimatedTime: "2-3 hours"
@@ -59,6 +62,10 @@ Fasten off, leaving a 20 in (50 cm) tail of black yarn.
 ### Step 3: neaten the thumb opening
 
 Join black yarn at the edge of the thumb gap and work one round of single crochet evenly around the opening. This stops the edges from stretching. Fasten off and weave in the ends.
+
+### Optional: embroider a spiderweb
+
+With black yarn and the yarn needle, stitch a spiderweb on the back of each glove, as in the illustration. Make four long straight stitches that cross at one central point, giving eight spokes. Then join the spokes with a ring of short straight stitches about 0.5 in (1.3 cm) from the centre, and another ring about 1 in (2.5 cm) out.
 
 ### Step 4: make the second glove
 
