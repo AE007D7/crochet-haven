@@ -9,6 +9,8 @@ export interface HeroSlide {
   title: string;
   image: string;
   alt: string;
+  /** The picture already has its title written on it, so do not overlay another. */
+  textInImage?: boolean;
 }
 
 export default function HeroSlider({ slides }: { slides: HeroSlide[] }) {
@@ -66,11 +68,13 @@ export default function HeroSlider({ slides }: { slides: HeroSlide[] }) {
             sizes="(min-width: 1024px) 50vw, 100vw"
             priority={i === 0}
           />
-          <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/60 to-transparent p-5">
-            <p className="text-white font-display text-lg drop-shadow-sm">
-              {slide.title}
-            </p>
-          </div>
+          {!slide.textInImage && (
+            <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/60 to-transparent p-5">
+              <p className="text-white font-display text-lg drop-shadow-sm">
+                {slide.title}
+              </p>
+            </div>
+          )}
         </Link>
       ))}
 

@@ -76,7 +76,9 @@ export default async function PatternPage(
     "@type": "Article",
     headline: pattern.title,
     description: pattern.description,
-    ...(imageUrl || pinUrl ? { image: [imageUrl, pinUrl].filter(Boolean) } : {}),
+    ...(imageUrl || pinUrl
+      ? { image: [...new Set([imageUrl, pinUrl].filter(Boolean))] }
+      : {}),
     datePublished: pattern.date,
     dateModified: pattern.updated ?? pattern.date,
     author: { ...publisher, url: `${SITE_URL}/about` },
@@ -155,7 +157,7 @@ export default async function PatternPage(
         title={pattern.title}
       />
 
-      {pattern.image ? (
+      {pattern.image && pattern.imageFit !== "contain" ? (
         <>
           <div className="relative aspect-[4/3] rounded-2xl overflow-hidden border border-border bg-accent-soft mb-2">
             <Image
@@ -171,7 +173,7 @@ export default async function PatternPage(
           </p>
         </>
       ) : (
-        pattern.pinImage && (
+        (pattern.pinImage ?? pattern.image) && (
           <>
             {/* No plain photo yet: show the pin at its own shape so its text is not cropped. */}
             <div
@@ -179,7 +181,7 @@ export default async function PatternPage(
               style={{ aspectRatio: pattern.pinAspect ?? "2 / 3" }}
             >
               <Image
-                src={pattern.pinImage}
+                src={(pattern.image ?? pattern.pinImage) as string}
                 alt={pattern.imageAlt ?? pattern.title}
                 fill
                 sizes="(min-width: 768px) 576px, 100vw"
@@ -244,7 +246,7 @@ export default async function PatternPage(
         dangerouslySetInnerHTML={{ __html: pattern.contentHtml }}
       />
 
-      {pattern.pinImage && pattern.image && (
+      {pattern.pinImage && pattern.image && pattern.imageFit !== "contain" && (
         <section
           aria-label="Save this pattern"
           className="mt-10 rounded-2xl border border-border bg-surface p-5 text-center print:hidden"

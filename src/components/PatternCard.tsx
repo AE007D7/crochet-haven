@@ -21,7 +21,9 @@ export default function PatternCard({ pattern }: { pattern: PatternSummary }) {
             src={pattern.image}
             alt={pattern.imageAlt ?? pattern.title}
             fill
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
+            className={`${
+              pattern.imageFit === "contain" ? "object-contain" : "object-cover"
+            } group-hover:scale-105 transition-transform duration-300`}
             sizes="(min-width: 1024px) 25vw, (min-width: 640px) 33vw, 90vw"
           />
         ) : (

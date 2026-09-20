@@ -71,6 +71,8 @@ export interface PatternFrontmatter {
   updated?: string;
   /** Optional. Articles without a picture yet show an icon card instead. */
   image?: string;
+  /** "contain" shows the whole picture (no cropping), for images with text on them. */
+  imageFit?: "cover" | "contain";
   /** Optional tall (2:3) Pinterest pin with text on it; used by the Pin button. */
   pinImage?: string;
   /** CSS aspect ratio of the pin, e.g. "1 / 1" or "2 / 3". Defaults to 2 / 3. */

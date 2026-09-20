@@ -18,6 +18,7 @@ export default function Home() {
     title: p.title,
     image: p.image as string,
     alt: p.imageAlt ?? p.title,
+    textInImage: p.imageFit === "contain",
   }));
 
   return (
