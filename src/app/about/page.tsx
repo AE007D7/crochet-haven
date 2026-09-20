@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { AUTHOR_NAME } from "@/lib/site";
+import { AUTHOR, AUTHOR_NAME } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "About",
@@ -37,7 +37,8 @@ export default function AboutPage() {
         </ul>
         <h2>Who publishes Chtatou</h2>
         <p>
-          Patterns on Chtatou are published under the name {AUTHOR_NAME}. For
+          Patterns on Chtatou are published under the name{" "}
+          <a href={`/authors/${AUTHOR.slug}`}>{AUTHOR_NAME}</a>. For
           questions, corrections or requests, contact the site owner at{" "}
           <a href="mailto:chtatoucochet@gmail.com">chtatoucochet@gmail.com</a>.
         </p>

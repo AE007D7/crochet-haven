@@ -4,5 +4,16 @@
 export const SITE_URL = "https://www.chtatou.com";
 export const SITE_NAME = "Chtatou";
 // The name patterns are published under. Change it here and every byline,
-// the structured data and the About page follow.
-export const AUTHOR_NAME = "Lara Yanki";
+// the structured data, the author page and the About page follow.
+export const AUTHOR: {
+  name: string;
+  slug: string;
+  /** Optional. Only add text that is true for the person behind the site. */
+  bio?: string[];
+  /** Optional. Only add a real photo of the person named above. */
+  photo?: { src: string; alt: string };
+} = {
+  name: "Lara Yanki",
+  slug: "lara-yanki",
+};
+export const AUTHOR_NAME = AUTHOR.name;

@@ -4,7 +4,7 @@ import {
   CATEGORIES,
   MIN_INDEXABLE_CATEGORY,
 } from "@/lib/patterns";
-import { SITE_URL } from "@/lib/site";
+import { AUTHOR, SITE_URL } from "@/lib/site";
 
 // lastModified is taken from each article's real publication date rather than
 // the build time, so the sitemap never claims content changed when it did not.
@@ -19,7 +19,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   // Policy pages: no lastModified rather than a made-up one.
-  const staticRoutes = ["/about", "/contact", "/privacy-policy", "/terms"].map(
+  const staticRoutes = [
+    "/about",
+    "/contact",
+    `/authors/${AUTHOR.slug}`,
+    "/privacy-policy",
+    "/terms",
+  ].map(
     (route) => ({ url: `${SITE_URL}${route}` })
   );
 

@@ -10,7 +10,7 @@ import {
 } from "@/lib/patterns";
 import PatternCard from "@/components/PatternCard";
 import ArticleActions from "@/components/ArticleActions";
-import { AUTHOR_NAME, SITE_NAME, SITE_URL } from "@/lib/site";
+import { AUTHOR, AUTHOR_NAME, SITE_NAME, SITE_URL } from "@/lib/site";
 
 function formatDate(iso: string) {
   return new Date(iso).toLocaleDateString("en-US", {
@@ -81,7 +81,11 @@ export default async function PatternPage(
       : {}),
     datePublished: pattern.date,
     dateModified: pattern.updated ?? pattern.date,
-    author: { "@type": "Person", name: AUTHOR_NAME, url: `${SITE_URL}/about` },
+    author: {
+      "@type": "Person",
+      name: AUTHOR_NAME,
+      url: `${SITE_URL}/authors/${AUTHOR.slug}`,
+    },
     publisher,
     mainEntityOfPage: pageUrl,
   };
@@ -135,7 +139,10 @@ export default async function PatternPage(
       </h1>
       <p className="text-sm text-muted mb-4">
         By{" "}
-        <Link href="/about" className="hover:text-accent hover:underline">
+        <Link
+          href={`/authors/${AUTHOR.slug}`}
+          className="hover:text-accent hover:underline"
+        >
           {AUTHOR_NAME}
         </Link>{" "}
         &middot; {formatDate(pattern.date)}
@@ -273,7 +280,14 @@ export default async function PatternPage(
       >
         <p className="font-display text-lg mb-1">About {AUTHOR_NAME}</p>
         <p className="text-sm text-muted leading-relaxed">
-          Patterns on {SITE_NAME} are published under the name {AUTHOR_NAME}. Read{" "}
+          Patterns on {SITE_NAME} are published under the name{" "}
+          <Link
+            href={`/authors/${AUTHOR.slug}`}
+            className="text-accent underline"
+          >
+            {AUTHOR_NAME}
+          </Link>
+          . Read{" "}
           <Link href="/about" className="text-accent underline">
             how our patterns and images are made
           </Link>
