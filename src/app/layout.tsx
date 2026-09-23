@@ -57,7 +57,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             Google's crawler can detect it without running JavaScript. */}
         <script
           async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6016810252610288"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8518103976077660"
           crossOrigin="anonymous"
         />
       </head>
