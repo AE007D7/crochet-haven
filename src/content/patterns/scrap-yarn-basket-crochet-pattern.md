@@ -4,8 +4,8 @@ description: "A sturdy crochet storage basket that turns leftover yarn into usef
 category: home-decor
 difficulty: Easy
 date: 2026-09-28
-image: "/images/patterns/real/scrap-yarn-basket.svg"
-imageAlt: "Scrap Yarn Basket Crochet Pattern: Stash-Busting Home Decor featured crochet project"
+image: "/images/patterns/real/scrap-yarn-basket-crochet-pattern.jpg"
+imageAlt: "Round striped crochet storage basket made from cream and multicolored scrap yarn"
 yarnWeight: "Worsted held double"
 hookSize: "6.0 mm"
 estimatedTime: "3–5 hours"

@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "DK"
 hookSize: "3.5 mm"
 estimatedTime: "2–3 hours"
+image: "/images/patterns/real/crochet-baby-sneakers.jpg"
+imageAlt: "Pair of blue crochet baby sneakers with cream toe caps, soft soles and laces"
 ---
 
 ## Introduction

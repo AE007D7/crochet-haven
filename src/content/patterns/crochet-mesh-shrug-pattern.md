@@ -4,8 +4,8 @@ description: "A lightweight crochet mesh shrug with airy stitches and simple sle
 category: wearables
 difficulty: Easy
 date: 2026-09-28
-image: "/images/patterns/real/crochet-mesh-shrug.svg"
-imageAlt: "Crochet Mesh Shrug Pattern: Lightweight Layering Guide featured crochet project"
+image: "/images/patterns/real/crochet-mesh-shrug-pattern.jpg"
+imageAlt: "Dusty rose cropped crochet shrug with airy mesh sleeves"
 yarnWeight: "DK cotton"
 hookSize: "4.5 mm"
 estimatedTime: "5–8 hours"

@@ -4,8 +4,8 @@ description: "A cozy beginner crochet blanket with simple repeat rows and an eas
 category: home-decor
 difficulty: Beginner
 date: 2026-09-28
-image: "/images/patterns/real/crochet-blanket-beginners.svg"
-imageAlt: "Crochet Blanket Pattern for Beginners featured crochet project"
+image: "/images/patterns/real/crochet-blanket-pattern-beginners.jpg"
+imageAlt: "Sage, blush and cream striped crochet blanket with a cream scalloped border"
 yarnWeight: "Worsted"
 hookSize: "5.5 mm"
 estimatedTime: "8–12 hours"

@@ -4,8 +4,8 @@ description: "A colorful granny square vest built from modular motifs with an ea
 category: wearables
 difficulty: Intermediate
 date: 2026-09-28
-image: "/images/patterns/real/granny-square-vest.svg"
-imageAlt: "Crochet Granny Square Vest Pattern: Modern Layering Piece featured crochet project"
+image: "/images/patterns/real/crochet-granny-square-vest-pattern.jpg"
+imageAlt: "Colorful granny square crochet vest with cream edging and a V neckline"
 yarnWeight: "DK"
 hookSize: "4.5 mm"
 estimatedTime: "8–12 hours"

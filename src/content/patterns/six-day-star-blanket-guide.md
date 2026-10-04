@@ -4,8 +4,8 @@ description: "A star-shaped crochet blanket guide with repeating points, color p
 category: home-decor
 difficulty: Intermediate
 date: 2026-09-28
-image: "/images/patterns/real/six-day-star-blanket.svg"
-imageAlt: "Six Day Star Blanket Crochet Pattern Guide featured crochet project"
+image: "/images/patterns/real/six-day-star-blanket-guide.jpg"
+imageAlt: "Star-shaped crochet blanket with cream, sage, dusty blue and blush repeating bands"
 yarnWeight: "Worsted"
 hookSize: "5.5 mm"
 estimatedTime: "10–16 hours"

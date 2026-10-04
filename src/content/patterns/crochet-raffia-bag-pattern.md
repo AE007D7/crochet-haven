@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "Raffia yarn"
 hookSize: "4.0 mm"
 estimatedTime: "7–10 hours"
+image: "/images/patterns/real/crochet-raffia-bag-pattern.jpg"
+imageAlt: "Structured natural raffia crochet handbag with a firm flat base and twin handles"
 ---
 
 ## Introduction

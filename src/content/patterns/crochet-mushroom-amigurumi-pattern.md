@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "DK"
 hookSize: "3.0 mm"
 estimatedTime: "1–2 hours"
+image: "/images/patterns/real/crochet-mushroom-amigurumi-pattern.jpg"
+imageAlt: "Crochet mushroom toy with a red white-spotted cap and smiling cream stem"
 ---
 
 ## Introduction

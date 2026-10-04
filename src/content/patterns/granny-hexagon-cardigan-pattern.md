@@ -4,8 +4,8 @@ description: "A modern granny hexagon cardigan with relaxed sleeves and customiz
 category: wearables
 difficulty: Intermediate
 date: 2026-09-28
-image: "/images/patterns/real/granny-hexagon-cardigan.svg"
-imageAlt: "Granny Hexagon Cardigan Crochet Pattern Guide featured crochet project"
+image: "/images/patterns/real/granny-hexagon-cardigan-pattern.jpg"
+imageAlt: "Relaxed cream crochet granny cardigan with multicolored motifs and striped sleeves"
 yarnWeight: "Worsted"
 hookSize: "5.0 mm"
 estimatedTime: "10–15 hours"

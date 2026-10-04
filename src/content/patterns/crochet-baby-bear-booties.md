@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "Worsted"
 hookSize: "4.0 mm"
 estimatedTime: "2–3 hours"
+image: "/images/patterns/real/crochet-baby-bear-booties.jpg"
+imageAlt: "Pair of tan crochet baby booties with round bear ears and embroidered faces"
 ---
 
 ## Introduction

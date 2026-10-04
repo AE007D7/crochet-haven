@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "Worsted"
 hookSize: "4.0 mm"
 estimatedTime: "3–4 hours"
+image: "/images/patterns/real/crochet-baby-winter-boots.jpg"
+imageAlt: "Pair of dusty rose crochet baby winter boots with thick cream cuffs"
 ---
 
 ## Introduction

@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "DK cotton"
 hookSize: "4.0 mm"
 estimatedTime: "2–4 hours"
+image: "/images/patterns/real/easy-crochet-bandana-pattern.jpg"
+imageAlt: "Triangular granny-stitch crochet bandana in cream, sage and muted autumn colors with ties"
 ---
 
 ## Introduction

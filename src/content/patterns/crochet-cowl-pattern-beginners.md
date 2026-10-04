@@ -4,8 +4,8 @@ description: "A quick beginner crochet cowl with cozy texture and simple joining
 category: wearables
 difficulty: Beginner
 date: 2026-09-28
-image: "/images/patterns/real/crochet-cowl-beginners.svg"
-imageAlt: "Crochet Cowl Pattern for Beginners: Cozy Fall Accessory featured crochet project"
+image: "/images/patterns/real/crochet-cowl-pattern-beginners.jpg"
+imageAlt: "Rust crochet cowl with chunky textured stitches"
 yarnWeight: "Bulky"
 hookSize: "6.5 mm"
 estimatedTime: "2–3 hours"

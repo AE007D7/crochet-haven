@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "Worsted"
 hookSize: "5.5 mm"
 estimatedTime: "14–20 hours"
+image: "/images/patterns/real/crochet-cable-sweater-pattern.jpg"
+imageAlt: "Dusty rose crochet pullover with raised cable texture and ribbed cuffs"
 ---
 
 ## Introduction

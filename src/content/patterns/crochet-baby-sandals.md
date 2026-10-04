@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "Cotton DK"
 hookSize: "3.5 mm"
 estimatedTime: "2–3 hours"
+image: "/images/patterns/real/crochet-baby-sandals.jpg"
+imageAlt: "Pair of cream crochet baby sandals with blush soles and flower accents"
 ---
 
 ## Introduction

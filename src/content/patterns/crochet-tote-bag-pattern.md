@@ -4,8 +4,8 @@ description: "A sturdy everyday crochet tote bag with practical handles and cust
 category: bags
 difficulty: Easy
 date: 2026-09-28
-image: "/images/patterns/real/crochet-tote-bag.svg"
-imageAlt: "Crochet Tote Bag Pattern: Easy Everyday Market Bag featured crochet project"
+image: "/images/patterns/real/crochet-tote-bag-pattern.jpg"
+imageAlt: "Cream and sage striped crochet tote with sturdy handles"
 yarnWeight: "Cotton worsted"
 hookSize: "4.5 mm"
 estimatedTime: "5–7 hours"

@@ -4,8 +4,8 @@ description: "A breathable filet crochet top with modern openwork and adjustable
 category: wearables
 difficulty: Intermediate
 date: 2026-09-28
-image: "/images/patterns/real/filet-crochet-top.svg"
-imageAlt: "Filet Crochet Top Pattern: Modern Openwork Guide featured crochet project"
+image: "/images/patterns/real/filet-crochet-top-pattern.jpg"
+imageAlt: "Cream short-sleeved filet crochet top with openwork floral motifs and neckline ties"
 yarnWeight: "DK cotton"
 hookSize: "4.0 mm"
 estimatedTime: "8–12 hours"

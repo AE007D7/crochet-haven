@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "DK"
 hookSize: "4.5 mm"
 estimatedTime: "12–18 hours"
+image: "/images/patterns/real/modern-granny-square-cardigan.jpg"
+imageAlt: "Oversized crochet granny square cardigan in cream, rust, olive and mustard"
 ---
 
 ## Introduction

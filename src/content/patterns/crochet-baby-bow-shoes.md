@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "DK"
 hookSize: "3.5 mm"
 estimatedTime: "2–3 hours"
+image: "/images/patterns/real/crochet-baby-bow-shoes.jpg"
+imageAlt: "Pair of blush crochet baby shoes with soft bows and ankle straps"
 ---
 
 ## Introduction

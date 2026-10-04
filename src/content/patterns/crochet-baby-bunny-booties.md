@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "DK"
 hookSize: "3.5 mm"
 estimatedTime: "2–3 hours"
+image: "/images/patterns/real/crochet-baby-bunny-booties.jpg"
+imageAlt: "Pair of cream crochet bunny booties with tall pink-lined ears and embroidered faces"
 ---
 
 ## Introduction

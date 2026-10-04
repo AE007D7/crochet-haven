@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "Worsted"
 hookSize: "5.0 mm"
 estimatedTime: "3–5 hours"
+image: "/images/patterns/real/crochet-leg-warmers-pattern.jpg"
+imageAlt: "Pair of dusty rose crochet leg warmers with ribbed cuffs and textured gathered sections"
 ---
 
 ## Introduction

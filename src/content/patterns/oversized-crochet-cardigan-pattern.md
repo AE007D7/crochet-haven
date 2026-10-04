@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "Bulky"
 hookSize: "8.0 mm"
 estimatedTime: "8–12 hours"
+image: "/images/patterns/real/oversized-crochet-cardigan-pattern.jpg"
+imageAlt: "Dusty rose chunky crochet cardigan with dropped shoulders, roomy sleeves and patch pockets"
 ---
 
 ## Introduction

@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "Worsted"
 hookSize: "5.0 mm"
 estimatedTime: "4–6 hours"
+image: "/images/patterns/real/crochet-balaclava-pattern.jpg"
+imageAlt: "Taupe crochet balaclava with ribbed face opening and flared neck coverage"
 ---
 
 ## Introduction

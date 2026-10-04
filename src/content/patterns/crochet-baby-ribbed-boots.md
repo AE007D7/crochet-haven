@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "Worsted"
 hookSize: "4.0 mm"
 estimatedTime: "3 hours"
+image: "/images/patterns/real/crochet-baby-ribbed-boots.jpg"
+imageAlt: "Pair of cream crochet baby boots with dusty rose ribbed cuffs and soles"
 ---
 
 ## Introduction

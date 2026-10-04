@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "Worsted"
 hookSize: "5.0 mm"
 estimatedTime: "8–12 hours"
+image: "/images/patterns/real/crochet-patchwork-sweater-vest.jpg"
+imageAlt: "Button-front granny square crochet vest in muted autumn colors with cream trim"
 ---
 
 ## Introduction

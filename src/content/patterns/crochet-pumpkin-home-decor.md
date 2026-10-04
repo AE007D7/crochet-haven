@@ -4,8 +4,8 @@ description: "Soft crochet pumpkins for fall decorating with multiple sizes and 
 category: home-decor
 difficulty: Easy
 date: 2026-09-28
-image: "/images/patterns/real/crochet-pumpkin-decor.svg"
-imageAlt: "Crochet Pumpkin Home Decor: Easy Fall Pattern Guide featured crochet project"
+image: "/images/patterns/real/crochet-pumpkin-home-decor.jpg"
+imageAlt: "Crochet pumpkins in rust, cream, sage and mustard with shaped stems"
 yarnWeight: "Worsted"
 hookSize: "4.0 mm"
 estimatedTime: "2–4 hours"

@@ -7,6 +7,8 @@ date: 2026-09-28
 yarnWeight: "Cotton DK"
 hookSize: "3.0 mm"
 estimatedTime: "6–10 hours"
+image: "/images/patterns/real/crochet-flower-bouquet-pattern.jpg"
+imageAlt: "Gift-wrapped crochet bouquet of roses, tulips and daisies with green stems"
 ---
 
 ## Introduction

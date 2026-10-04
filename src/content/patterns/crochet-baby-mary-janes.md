@@ -7,6 +7,8 @@ date: 2026-09-24
 yarnWeight: "DK"
 hookSize: "3.5 mm"
 estimatedTime: "2–3 hours"
+image: "/images/patterns/real/crochet-baby-mary-janes.jpg"
+imageAlt: "Pair of blush crochet Mary Jane baby shoes with ankle straps and flower accents"
 ---
 
 ## Introduction
