@@ -1,6 +1,6 @@
 ---
 title: "Crochet Baby Bunny Booties: Cute Ear Design"
-description: "Crochet soft bunny booties with playful ears and a comfortable baby-friendly fit."
+description: "Bunny booties stand out because of their long ears."
 category: wearables
 difficulty: Easy
 date: 2026-09-24
@@ -9,32 +9,25 @@ hookSize: "3.5 mm"
 estimatedTime: "2–3 hours"
 image: "/images/patterns/real/crochet-baby-bunny-booties.jpg"
 imageAlt: "Pair of cream crochet bunny booties with tall pink-lined ears and embroidered faces"
+updated: 2026-10-04
 ---
 
-## Introduction
+Bunny booties stand out because of their long ears. Those ears also make the finishing stage more important: they should sit outside the cuff, stay securely attached and leave the ankle opening comfortable. Use this guide to customize a plain fitted bootie base.
 
-Crochet soft bunny booties with playful ears and a comfortable baby-friendly fit. Baby footwear is a satisfying small project because it works up quickly and makes a thoughtful handmade gift. This guide focuses on a neat finish, comfortable shaping, and practical sizing for little feet.
+## Decide Between Upright and Folded Ears
 
-## Materials
+Shorter ears hold their shape better in soft yarn. Longer ears can fold forward and give a relaxed look, but should not hang across the opening. Crochet a sample ear before making all four. Hold it against the shoe and check its weight, length and flexibility.
 
-You will need baby-friendly dk yarn, a 3.5 mm crochet hook, yarn needle, stitch markers, scissors, and a measuring tape. Choose soft washable yarn and avoid scratchy fibers.
+With DK yarn, a simple ear can be made as a narrow strip with a rounded end. A pale contrast insert can be embroidered or crocheted separately and sewn flat onto the outer ear. Avoid a bulky double layer if the ear becomes too heavy.
 
-## Construction
+## Balance the Attachments
 
-Start with an oval sole worked around a foundation chain. Increase smoothly at the toe and heel, then build the sides without adding extra stitches. Shape the upper gradually so the shoe stays comfortable while keeping its form.
+Mark two positions on the outside of each cuff, spaced evenly around the front. Sew across the full width of each ear base rather than attaching only one corner. Check the opening again: a decorative ear should not draw the cuff inward or leave a rough seam against the ankle.
 
-## Baby Sizing
+## Give the Bunny an Embroidered Face
 
-Measure the finished sole rather than relying only on age labels. Babies grow at different rates, so leave a little ease and make both shoes from the same stitch and row counts.
+Use small, flat stitches for the eyes and nose. A few short stitches are easier to keep secure than long strands across the toe. Choose contrast that is visible without making the face oversized. Leave plastic eyes and loose pom-pom tails off baby footwear.
 
-## Finishing Tips
+## Match the Pair
 
-Weave in every end securely and keep seams smooth on the inside. Decorative details should be stitched firmly. For baby items, avoid loose pieces that could become a choking hazard.
-
-## Styling Ideas
-
-Try soft neutrals for an everyday look or pastel shades for baby gifts and photo outfits. You can also coordinate the yarn with a [baby crochet hat](/patterns/baby-crochet-hat-guide) or [baby blanket](/patterns/crochet-baby-blanket-ideas) to create a matching handmade set.
-
-## Conclusion
-
-Crochet Baby Bunny Booties: Cute Ear Design are a lovely way to practice small-scale shaping while creating something useful and giftable. Take time to check the sole size, keep your tension consistent, and finish every detail securely for a polished pair.
+Make the two base booties to the same measurements before adding ears. Compare the ear positions with both shoes facing forward, then inspect the inside for hard knots. See [baby bear booties](/patterns/crochet-baby-bear-booties) for a shorter-ear alternative.

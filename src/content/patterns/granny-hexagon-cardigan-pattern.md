@@ -1,6 +1,6 @@
 ---
-title: "Granny Hexagon Cardigan Crochet Pattern Guide"
-description: "A modern granny hexagon cardigan with relaxed sleeves and customizable length."
+title: "Granny Hexagon Cardigan Crochet Guide Guide"
+description: "A granny hexagon cardigan uses two expanding hexagons that fold into the two halves of a garment."
 category: wearables
 difficulty: Intermediate
 date: 2026-09-28
@@ -9,77 +9,29 @@ imageAlt: "Relaxed cream crochet granny cardigan with multicolored motifs and st
 yarnWeight: "Worsted"
 hookSize: "5.0 mm"
 estimatedTime: "10–15 hours"
+updated: 2026-10-04
 ---
 
-## Introduction
+A granny hexagon cardigan uses two expanding hexagons that fold into the two halves of a garment. Each folded piece forms part of the body and a sleeve. The construction is different from joining a grid of granny squares, so the fitting checks happen at different stages.
 
-A modern granny hexagon cardigan with relaxed sleeves and customizable length. This guide walks through planning, materials, construction, sizing, finishing, and common mistakes so you can create a polished project rather than simply copy a short stitch list.
+## Make Two Matching Hexagons
 
-## Materials You’ll Need
+Choose a hexagon cardigan pattern with a specified cluster repeat. Mark all six corners and work the same number of rounds on both pieces. Keep the corner treatment consistent: a missed corner increase can prevent the piece from folding into the intended shape.
 
-- Worsted yarn in your chosen colors
-- 5.0 mm crochet hook
-- Scissors and yarn needle
-- Stitch markers
-- Measuring tape
-- Blocking supplies when appropriate
+Match the yarn and hook for the two halves. If you change colors, write down the round order so both sleeves begin with the same sequence.
 
-Choose yarn with the finished use in mind. Soft yarn and drape matter for wearables, while bags, baskets, and home projects usually benefit from stronger stitch definition and structure.
+## Check the Fold Early
 
-## Before You Start
+Fold a sample hexagon into the garment-half shape described in your pattern. The fabric may look unusual when spread completely flat; assess it in the folded position as well. Compare the sleeve depth and body width before continuing with many more rounds.
 
-Make a gauge swatch when finished dimensions matter. Measure after the swatch has relaxed. Read the complete construction plan before starting and note where shaping, joins, color changes, or repeated sections occur.
+The hexagon controls several measurements at once. Adding rounds increases more than just body width, so a cardigan pattern may use extra rows later to extend the body or sleeves independently.
 
-## Step-by-Step Construction
+## Join the Halves and Refine the Fit
 
-### 1. Build the foundation
+Follow the pattern's shoulder and back seam arrangement. Mark the joins first, try the folded pieces around your shoulders and check that the two halves align. Add back extensions, lower-body rows or sleeve extensions only where the garment plan allows.
 
-Create the starting chain, ring, motif, or center section with relaxed tension. Count carefully because a clean foundation makes later rows easier to control.
+Do not make one whole hexagon larger simply to correct a narrow back; that can also create mismatched sleeves.
 
-### 2. Establish the repeat
+## Finish the Front and Cuffs
 
-Work the main stitch repeat slowly for the first few rows. Use markers at important corners, increases, or joins. Once the repeat is established, check the width and shape regularly instead of waiting until the project is nearly finished.
-
-### 3. Shape and size
-
-Add or remove repeats according to your measurements. Keep increases and decreases balanced. For modular projects, complete one sample motif and measure it before calculating how many pieces you need.
-
-### 4. Join and finish
-
-Keep seams flexible and avoid pulling joining stitches too tightly. Weave ends securely in more than one direction. Add edging only after checking that the main fabric lies flat.
-
-## Sizing and Customization
-
-Crochet is easy to personalize when you work from measurements. Compare your gauge with the width and length you want, then adjust complete stitch repeats where possible. Save notes about hook size, yarn, and final measurements if you may make the project again.
-
-For a modern palette, try cream with chocolate, olive, burgundy, rust, dusty rose, or muted blue. Scrap-friendly designs can combine several colors as long as the yarn weights behave similarly.
-
-## Professional Finishing Tips
-
-Block the finished piece when it improves stitch definition or shape. Check that borders do not ripple or pull inward. Trim ends only after they are securely woven in. For wearables, try the piece on before permanently closing final seams.
-
-## Common Mistakes to Avoid
-
-Avoid skipping gauge on fitted projects, changing tension halfway through, or adding borders without checking stitch spacing. Count repeats regularly. If the work starts twisting, narrowing, or flaring unexpectedly, inspect the previous rows before continuing.
-
-## Related Crochet Ideas
-
-Explore more projects in our [crochet patterns](/patterns), try the [modern granny square cardigan](/patterns/modern-granny-square-cardigan), or make a quick accessory such as the [crochet bandana](/patterns/easy-crochet-bandana-pattern).
-
-## Frequently Asked Questions
-
-### Is this project beginner friendly?
-
-It is best for crocheters who already know basic stitches, counting, simple shaping, and joining. A patient beginner can still use it as a next-step project.
-
-### What yarn should I use?
-
-Start with Worsted. Fiber choice can change the drape and structure, so check the yarn label and make a swatch before committing to the full project.
-
-### How long does it take?
-
-Allow roughly 10–15 hours. Your speed, chosen size, yarn, and finishing method will affect the total time.
-
-## Conclusion
-
-Granny Hexagon Cardigan Crochet Pattern Guide is a practical project for building crochet skills while creating something useful and current. Consistent tension, accurate measurements, and careful finishing make the biggest difference in the final result.
+Add a front band after the body is joined so it runs continuously around the opening. If narrowing a sleeve cuff, spread the shaping across the cuff round rather than gathering one side. For a cardigan with separately planned square panels, see the [modern granny-square cardigan](/patterns/modern-granny-square-cardigan).

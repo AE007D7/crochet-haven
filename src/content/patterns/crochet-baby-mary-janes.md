@@ -1,6 +1,6 @@
 ---
 title: "Crochet Baby Mary Janes: Sweet Strap Shoes"
-description: "Make classic crochet Mary Jane shoes with a comfortable strap and simple decorative details."
+description: "Mary Jane crochet shoes are defined by a low upper and a strap across the instep."
 category: wearables
 difficulty: Beginner
 date: 2026-09-24
@@ -9,32 +9,23 @@ hookSize: "3.5 mm"
 estimatedTime: "2–3 hours"
 image: "/images/patterns/real/crochet-baby-mary-janes.jpg"
 imageAlt: "Pair of blush crochet Mary Jane baby shoes with ankle straps and flower accents"
+updated: 2026-10-04
 ---
 
-## Introduction
+Mary Jane crochet shoes are defined by a low upper and a strap across the instep. The strap needs to help the shoe stay in place while leaving enough room to put it on easily. Begin with a sole and toe pattern sized for the intended foot, then plan the closure.
 
-Make classic crochet Mary Jane shoes with a comfortable strap and simple decorative details. Baby footwear is a satisfying small project because it works up quickly and makes a thoughtful handmade gift. This guide focuses on a neat finish, comfortable shaping, and practical sizing for little feet.
+## Mark the Strap Position
 
-## Materials
+Finish the undecorated upper first. Place the strap behind the toe cover rather than directly at the front of the shoe. Use stitch markers to test its attachment points on opposite sides. A strap placed too far back may press into the ankle; one placed too far forward may let the heel slide out.
 
-You will need baby-friendly dk yarn, a 3.5 mm crochet hook, yarn needle, stitch markers, scissors, and a measuring tape. Choose soft washable yarn and avoid scratchy fibers.
+DK cotton can work well for a light shoe, but check the flexibility of the finished fabric instead of relying only on the yarn label.
 
-## Construction
+## Crochet a Stable Strap
 
-Start with an oval sole worked around a foundation chain. Increase smoothly at the toe and heel, then build the sides without adding extra stitches. Shape the upper gradually so the shoe stays comfortable while keeping its form.
+Work a narrow band in rows of single crochet. Test its length across the actual opening before fastening off. It should lie flat, with room for the foot underneath. Do not stretch it tightly to reach the other side: that changes both the fit and the shape of the upper.
 
-## Baby Sizing
+For a button closure, follow the base pattern's buttonhole instructions and choose a closure appropriate for the intended use. Sew the button firmly, inspect it regularly and leave it off if it cannot be kept secure. A permanently stitched decorative strap is another option if the opening still allows the foot to enter.
 
-Measure the finished sole rather than relying only on age labels. Babies grow at different rates, so leave a little ease and make both shoes from the same stitch and row counts.
+## Mirror the Shoes
 
-## Finishing Tips
-
-Weave in every end securely and keep seams smooth on the inside. Decorative details should be stitched firmly. For baby items, avoid loose pieces that could become a choking hazard.
-
-## Styling Ideas
-
-Try soft neutrals for an everyday look or pastel shades for baby gifts and photo outfits. You can also coordinate the yarn with a [baby crochet hat](/patterns/baby-crochet-hat-guide) or [baby blanket](/patterns/crochet-baby-blanket-ideas) to create a matching handmade set.
-
-## Conclusion
-
-Crochet Baby Mary Janes: Sweet Strap Shoes are a lovely way to practice small-scale shaping while creating something useful and giftable. Take time to check the sole size, keep your tension consistent, and finish every detail securely for a polished pair.
+Decide which side each closure faces, then mark both shoes together. Matching strap widths and consistent edging make the pair look intentional. Small flowers should be sewn flat, not glued on. For an upper without a closure, see the [baby loafer guide](/patterns/crochet-baby-loafers).
