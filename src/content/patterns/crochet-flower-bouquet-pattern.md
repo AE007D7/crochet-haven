@@ -12,6 +12,9 @@ imageAlt: "Gift-wrapped crochet bouquet of roses, tulips and daisies with green 
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A crochet bouquet combines separate flower heads with supported stems. Plan the arrangement before making dozens of petals: one large focal flower, a few smaller flowers and leaves can create a balanced gift. This construction guide helps assemble flowers made from individual flower patterns.
 
 ## Choose Three Flower Shapes

@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Sneakers: Cute Sporty Shoes"
+title: "Crochet Baby Sneakers: Cute Sporty Shoes — Design Guide"
 description: "Low-top baby sneakers combine a contrast sole, a rounded toe cap and a short tongue."
 category: wearables
 difficulty: Beginner
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-sneakers.jpg"
 imageAlt: "Pair of blue crochet baby sneakers with cream toe caps, soft soles and laces"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 Low-top baby sneakers combine a contrast sole, a rounded toe cap and a short tongue. Unlike high-top booties, their ankle edge stays low. The result should be a flexible decorative shoe, with an opening that is easy to use. Start with a sole pattern chosen for the baby's measurements.
 

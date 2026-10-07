@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Mary Janes: Sweet Strap Shoes"
+title: "Crochet Baby Mary Janes: Sweet Strap Shoes — Design Guide"
 description: "Mary Jane crochet shoes are defined by a low upper and a strap across the instep."
 category: wearables
 difficulty: Beginner
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-mary-janes.jpg"
 imageAlt: "Pair of blush crochet Mary Jane baby shoes with ankle straps and flower accents"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 Mary Jane crochet shoes are defined by a low upper and a strap across the instep. The strap needs to help the shoe stay in place while leaving enough room to put it on easily. Begin with a sole and toe pattern sized for the intended foot, then plan the closure.
 

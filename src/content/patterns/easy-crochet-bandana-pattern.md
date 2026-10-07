@@ -1,5 +1,5 @@
 ---
-title: "Crochet Bandana Pattern: Easy Granny Headscarf for Beginners"
+title: "Crochet Bandana Guide: Easy Granny Headscarf for Beginners"
 description: "Make an easy crochet bandana with a granny-style triangle, adjustable ties, modern color ideas, and beginner-friendly finishing tips."
 category: wearables
 difficulty: Beginner
@@ -10,6 +10,9 @@ estimatedTime: "2–4 hours"
 image: "/images/patterns/real/easy-crochet-bandana-pattern.jpg"
 imageAlt: "Triangular granny-stitch crochet bandana in cream, sage and muted autumn colors with ties"
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 ## Introduction
 

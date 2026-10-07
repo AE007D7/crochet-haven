@@ -1,5 +1,5 @@
 ---
-title: "Crochet Patchwork Sweater Vest: Modern Granny Square Style"
+title: "Crochet Patchwork Sweater Vest: Modern Granny Square Style — Design Guide"
 description: "A patchwork vest depends on a planned grid."
 category: wearables
 difficulty: Intermediate
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-patchwork-sweater-vest.jpg"
 imageAlt: "Button-front granny square crochet vest in muted autumn colors with cream trim"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 A patchwork vest depends on a planned grid. Squares that look similar on the hook can change size after washing, so block samples before arranging the front and back. Use this guide alongside a sized vest pattern for neckline and armhole shaping.
 

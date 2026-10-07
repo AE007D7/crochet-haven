@@ -28,22 +28,22 @@ export default function Home() {
         <div className="mx-auto max-w-6xl px-4 sm:px-6 py-14 sm:py-20 grid gap-10 lg:grid-cols-2 items-center">
           <div>
             <p className="text-accent font-medium text-sm mb-3 tracking-wide uppercase">
-              Free crochet patterns
+              Free crochet patterns and guides
             </p>
             <h1 className="font-display text-4xl sm:text-5xl leading-tight text-foreground mb-5">
-              Cozy patterns, made for every skill level.
+              Crochet projects, patterns, and practical guides.
             </h1>
             <p className="text-muted text-lg leading-relaxed mb-8 max-w-md">
-              From your first amigurumi to a full wardrobe cardigan —
-              written-out patterns with stitch counts, materials lists, and
-              beginner-friendly tips.
+              Explore amigurumi, wearables, bags, and blankets. Find
+              numbered patterns alongside design guides and beginner-friendly
+              tutorials; each article explains what it covers.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link
                 href="/patterns"
                 className="rounded-full bg-accent text-white font-medium px-6 py-3 hover:bg-accent-hover transition-colors"
               >
-                Browse all patterns
+                Browse patterns and guides
               </Link>
               <Link
                 href="/patterns/reading-a-pattern"
@@ -76,9 +76,9 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured patterns */}
+      {/* Featured projects */}
       <section className="mx-auto max-w-6xl px-4 sm:px-6 py-10">
-        <h2 className="font-display text-2xl mb-5">Featured patterns</h2>
+        <h2 className="font-display text-2xl mb-5">Featured projects</h2>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {featured.map((p) => (
             <PatternCard key={p.slug} pattern={p} />
@@ -88,7 +88,7 @@ export default function Home() {
 
       {rest.length > 0 && (
         <section className="mx-auto max-w-6xl px-4 sm:px-6 pb-16">
-          <h2 className="font-display text-2xl mb-5">More patterns</h2>
+          <h2 className="font-display text-2xl mb-5">More projects</h2>
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {rest.map((p) => (
               <PatternCard key={p.slug} pattern={p} />

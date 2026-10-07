@@ -12,6 +12,9 @@ estimatedTime: "10–15 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A granny hexagon cardigan uses two expanding hexagons that fold into the two halves of a garment. Each folded piece forms part of the body and a sleeve. The construction is different from joining a grid of granny squares, so the fitting checks happen at different stages.
 
 ## Make Two Matching Hexagons

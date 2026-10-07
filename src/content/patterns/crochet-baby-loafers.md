@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Loafers: Classic Handmade Shoes"
+title: "Crochet Baby Loafers: Classic Handmade Shoes — Design Guide"
 description: "A crochet loafer has a low opening, a broad toe and a band across the upper."
 category: wearables
 difficulty: Intermediate
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-loafers.jpg"
 imageAlt: "Pair of oatmeal crochet baby loafers with softly structured uppers"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 A crochet loafer has a low opening, a broad toe and a band across the upper. Its appeal comes from a clean outline rather than bulky decoration. Use a fitted slipper base as the starting point; this guide explains the loafer details without prescribing untested size-specific counts.
 

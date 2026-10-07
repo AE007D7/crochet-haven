@@ -12,6 +12,9 @@ estimatedTime: "8–12 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Filet crochet builds a grid of open and filled blocks. On a top, that grid must fit the garment as well as the decorative motif. Treat the chart as a measured piece of fabric: one block's size affects the body's width, the motif placement and the shoulder positions.
 
 ## Sample Both Types of Block

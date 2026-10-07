@@ -12,6 +12,9 @@ estimatedTime: "10–16 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 The 6-Day Star Blanket is a design by Betty McKnit. Use the [designer's original instructions](https://bettymcknit.com/patterns/6daystarblanket/) for the stitch sequence and shaping. This companion guide is about organizing yarn, tracking rounds and checking the growing star; it does not replace or reproduce that pattern.
 
 ## Plan a Palette You Can Continue

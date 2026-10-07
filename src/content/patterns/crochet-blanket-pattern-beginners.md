@@ -12,6 +12,9 @@ estimatedTime: "8–12 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A plain single-crochet rectangle is a useful first blanket because you can change its width and length without recalculating a complicated repeat. This version uses US terms: ch means chain and sc means single crochet. Choose colors before starting so you can obtain enough yarn for the entire piece.
 
 ## Use a Sample to Set the Width

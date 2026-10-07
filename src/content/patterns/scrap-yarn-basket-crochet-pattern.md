@@ -12,6 +12,9 @@ estimatedTime: "3–5 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A scrap-yarn basket needs firmness more than drape. Combining leftover colors can make an attractive striped container, but the strands must produce reasonably consistent thickness. Choose the basket's purpose first: a soft yarn bowl and a freestanding storage basket need different fabrics.
 
 ## Sort Scraps by Behavior

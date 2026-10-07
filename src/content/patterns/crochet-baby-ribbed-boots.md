@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Ribbed Boots: Cozy Cuffed Booties"
+title: "Crochet Baby Ribbed Boots: Cozy Cuffed Booties — Design Guide"
 description: "Ribbed cuffs are the main feature of these baby boots."
 category: wearables
 difficulty: Easy
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-ribbed-boots.jpg"
 imageAlt: "Pair of cream crochet baby boots with dusty rose ribbed cuffs and soles"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 Ribbed cuffs are the main feature of these baby boots. They stretch differently from the denser sole and toe, so treat the cuff as its own section rather than continuing the same stitch throughout. This guide explains how to connect a cuff to an already fitted bootie base.
 

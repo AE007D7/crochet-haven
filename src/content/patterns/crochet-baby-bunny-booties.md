@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Bunny Booties: Cute Ear Design"
+title: "Crochet Baby Bunny Booties: Cute Ear Design — Design Guide"
 description: "Bunny booties stand out because of their long ears."
 category: wearables
 difficulty: Easy
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-bunny-booties.jpg"
 imageAlt: "Pair of cream crochet bunny booties with tall pink-lined ears and embroidered faces"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 Bunny booties stand out because of their long ears. Those ears also make the finishing stage more important: they should sit outside the cuff, stay securely attached and leave the ankle opening comfortable. Use this guide to customize a plain fitted bootie base.
 

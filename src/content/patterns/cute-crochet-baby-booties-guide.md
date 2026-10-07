@@ -11,6 +11,9 @@ hookSize: "3.0-4.0mm"
 estimatedTime: "1-2 hours"
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Baby crochet projects are loved for their small size, soft textures, and giftable charm. Crochet baby booties are especially satisfying because a matching pair can be completed quickly and coordinated with hats, blankets, and outfits.
 
 ## Why Make Crochet Baby Booties?

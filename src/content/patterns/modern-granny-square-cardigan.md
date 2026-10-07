@@ -12,6 +12,9 @@ imageAlt: "Oversized crochet granny square cardigan in cream, rust, olive and mu
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A modern granny-square cardigan combines a familiar motif with deliberate fit, palette and finishing. Start with a sized cardigan layout; this guide helps keep the squares, seams and bands working together rather than turning a stack of motifs into an unplanned garment.
 
 ## Set the Color Rules

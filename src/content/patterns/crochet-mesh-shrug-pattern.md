@@ -12,6 +12,9 @@ estimatedTime: "5–8 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A mesh shrug covers the arms and upper back while leaving most of the front open. Its success depends on the placement of the arm openings and the way the mesh stretches when worn. This guide plans a simple folded-rectangle construction; a shaped bolero needs a dedicated garment pattern.
 
 ## Measure Across the Back and Arms

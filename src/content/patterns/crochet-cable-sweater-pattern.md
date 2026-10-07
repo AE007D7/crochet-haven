@@ -12,6 +12,9 @@ imageAlt: "Dusty rose crochet pullover with raised cable texture and ribbed cuff
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Crochet cables use raised stitches to create crossing lines. Those crossings consume yarn and can draw the fabric inward, so a plain-stitch gauge sample cannot predict the size of a cable sweater. Use a graded cable pattern with a stitch chart and make your sample in its actual cable repeat.
 
 ## Read One Repeat Before Starting

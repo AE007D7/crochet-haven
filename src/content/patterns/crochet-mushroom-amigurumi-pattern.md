@@ -12,6 +12,9 @@ imageAlt: "Crochet mushroom toy with a red white-spotted cap and smiling cream s
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A crochet mushroom has two distinct structures: a rounded cap and a narrower stem. The cap needs a stable underside so it does not flop over the stem. This assembly guide works with a mushroom pattern that supplies the shaping rounds and stitch counts.
 
 ## Make a Dense Sample

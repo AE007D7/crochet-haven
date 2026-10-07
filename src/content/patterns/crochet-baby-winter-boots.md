@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Winter Boots: Warm Cozy Booties"
+title: "Crochet Baby Winter Boots: Warm Cozy Booties — Design Guide"
 description: "A winter-style baby boot gets its cozy appearance from a taller shaft and a folded cuff."
 category: wearables
 difficulty: Easy
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-winter-boots.jpg"
 imageAlt: "Pair of dusty rose crochet baby winter boots with thick cream cuffs"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 A winter-style baby boot gets its cozy appearance from a taller shaft and a folded cuff. Warm-looking crochet still needs a comfortable opening and flexible fabric. This guide covers the shaft and cuff choices; use a fitted bootie pattern for the lower foot section.
 

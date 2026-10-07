@@ -12,6 +12,9 @@ imageAlt: "Structured natural raffia crochet handbag with a firm flat base and t
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Raffia-style yarn creates a crisp summer bag, but the fiber label matters. Paper raffia, viscose raffia and synthetic substitutes can respond differently to moisture and bending. Make a small sample and follow the manufacturer's care instructions before planning a bag that will carry daily essentials.
 
 ## Test the Fabric Under Load

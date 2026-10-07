@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Sandals: Lightweight Summer Shoes"
+title: "Crochet Baby Sandals: Lightweight Summer Shoes — Design Guide"
 description: "Crochet baby sandals use an open toe and straps instead of a full upper."
 category: wearables
 difficulty: Easy
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-sandals.jpg"
 imageAlt: "Pair of cream crochet baby sandals with blush soles and flower accents"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 Crochet baby sandals use an open toe and straps instead of a full upper. That makes strap placement the central design problem. These soft sandals are decorative footwear for supervised wear, not supportive outdoor shoes. Follow a size-specific sole pattern and use this guide to arrange the straps.
 

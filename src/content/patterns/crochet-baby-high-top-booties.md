@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby High-Top Booties: Sneaker Style"
+title: "Crochet Baby High-Top Booties: Sneaker Style — Design Guide"
 description: "High-top booties borrow the look of sneakers through a contrast sole, a separate tongue and a taller ankle section."
 category: wearables
 difficulty: Intermediate
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-high-top-booties.jpg"
 imageAlt: "Pair of blue crochet high-top baby sneakers with cream soles and laces"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 High-top booties borrow the look of sneakers through a contrast sole, a separate tongue and a taller ankle section. They remain soft crochet footwear; the design does not provide the structure or traction of walking shoes. This construction guide helps you plan the upper around a size-specific sole pattern.
 

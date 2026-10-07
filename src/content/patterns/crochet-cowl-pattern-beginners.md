@@ -12,6 +12,9 @@ estimatedTime: "2–3 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A beginner cowl can be made from a ribbed rectangle joined into a loop. Working flat lets you check the length before sewing the seam, and back-loop single crochet gives the fabric a visible rib. The steps below use US crochet terminology.
 
 ## Choose the Height and Circumference

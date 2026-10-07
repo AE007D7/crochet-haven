@@ -12,6 +12,9 @@ imageAlt: "Pair of dusty rose crochet leg warmers with ribbed cuffs and textured
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Leg warmers need stretch at the calf and enough grip to stay in place. Measure the widest part of the calf, the ankle and the desired height while wearing the clothing they will cover. This guide explains fit choices for a ribbed pair; use a graded pattern when shaping is needed.
 
 ## Choose the Ribbing Direction

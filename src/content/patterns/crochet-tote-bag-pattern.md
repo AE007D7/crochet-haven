@@ -12,6 +12,9 @@ estimatedTime: "5–7 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 An everyday crochet tote needs a stable bottom and handles that can carry the bag's contents without stretching excessively. Plan it around what you intend to carry: a light project bag and a grocery tote put very different loads on the same crochet fabric.
 
 ## Sample the Fabric Under Weight

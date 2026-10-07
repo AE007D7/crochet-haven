@@ -15,11 +15,10 @@ export default function AboutPage() {
       <h1 className="font-display text-3xl mb-6">About Chtatou</h1>
       <div className="prose-crochet">
         <p>
-          Chtatou is a home for free, clearly written crochet patterns —
-          from your very first amigurumi to more involved wearable pieces.
-          Every pattern is written out in full, with stitch counts, materials
-          lists, and beginner-friendly notes so you never feel lost partway
-          through a project.
+          Chtatou publishes free crochet patterns, technique tutorials, and
+          design guides. Numbered patterns include stitch instructions; design
+          guides explain construction choices and are labeled accordingly.
+          A guide is not a complete size-graded or stitch-by-stitch pattern.
         </p>
         <p>
           Whether you picked up a hook for the first time last week or you&apos;ve

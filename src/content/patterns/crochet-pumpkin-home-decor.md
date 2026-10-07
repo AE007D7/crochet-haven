@@ -12,6 +12,9 @@ estimatedTime: "2–4 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Crochet pumpkins get their shape from a gathered fabric tube and strands that divide the stuffed body into lobes. You can change the proportions without changing the basic assembly: a short, wide tube creates a squat pumpkin, while a taller tube creates a rounder one.
 
 ## Make a Ribbed Rectangle

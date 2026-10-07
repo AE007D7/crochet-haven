@@ -12,6 +12,9 @@ imageAlt: "Dusty rose chunky crochet cardigan with dropped shoulders, roomy slee
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 An oversized cardigan still needs intentional proportions. Decide whether the extra room should sit in the body, sleeves or dropped shoulders; increasing every dimension can produce cuffs that cover the hands and a neckline that slips off. Start with a graded cardigan pattern and use this guide to plan its fit.
 
 ## Measure a Layer You Already Like

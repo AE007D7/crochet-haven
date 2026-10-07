@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Bow Shoes: Pretty Beginner Project"
+title: "Crochet Baby Bow Shoes: Pretty Beginner Project — Design Guide"
 description: "A soft crochet bow changes the look of a simple baby slipper without requiring a complicated upper."
 category: wearables
 difficulty: Beginner
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-bow-shoes.jpg"
 imageAlt: "Pair of blush crochet baby shoes with soft bows and ankle straps"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 A soft crochet bow changes the look of a simple baby slipper without requiring a complicated upper. The important decisions are the bow's size, where it sits and how it attaches. This guide covers those finishing choices; start with a bootie pattern that fits the intended foot.
 

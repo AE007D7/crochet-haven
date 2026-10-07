@@ -1,5 +1,5 @@
 ---
-title: "Adorable Baby Crochet Hat Patterns for Beginners"
+title: "Adorable Baby Crochet Hat Patterns for Beginners — Design Guide"
 description: "A beginner-friendly guide to crocheting soft baby hats, with yarn, sizing, stitch, and finishing tips for handmade newborn gifts."
 category: "wearables"
 difficulty: "Beginner"
@@ -10,6 +10,9 @@ yarnWeight: "DK or light worsted baby yarn"
 hookSize: "3.5-4.5mm"
 estimatedTime: "1-2 hours"
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 Baby crochet projects are some of the sweetest handmade creations you can make. A tiny hat is a wonderful place to begin because it uses little yarn, works up quickly, and gives you an easy way to practice working in rounds.
 

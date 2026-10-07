@@ -11,6 +11,9 @@ hookSize: "4.0-5.5mm"
 estimatedTime: "8-15 hours"
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Baby crochet blankets are timeless handmade projects. They offer more room for color and stitch combinations than tiny accessories while still being approachable for crocheters who want a relaxing, repetitive project.
 
 ## Why Crochet a Baby Blanket?

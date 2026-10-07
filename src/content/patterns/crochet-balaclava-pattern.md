@@ -12,6 +12,9 @@ imageAlt: "Taupe crochet balaclava with ribbed face opening and flared neck cove
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A balaclava needs a clear face opening, comfortable neck coverage and enough room around the crown. Use a graded pattern intended for the wearer; a hat pattern with an improvised hole will not reliably place the eyes and mouth correctly.
 
 ## Map the Fit Points

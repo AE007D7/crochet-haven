@@ -12,6 +12,9 @@ estimatedTime: "8–12 hours"
 updated: 2026-10-04
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 A granny-square vest is a layout project as much as a crochet project. The size of one finished square determines the width of the body, the depth of the armholes and the amount of edging you need. Plan the layout before making a large pile of motifs.
 
 ## Measure a Washed Sample Square

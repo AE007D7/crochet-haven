@@ -11,6 +11,9 @@ hookSize: "4.0mm"
 estimatedTime: "5-7 hours"
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Baby crochet clothing is a lovely way to combine practical garment skills with small, manageable projects. A romper is a step up from hats and booties, but its simple panels and straps make it a good introduction to baby garments.
 
 ## Why Make a Crochet Baby Romper?

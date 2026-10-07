@@ -1,5 +1,5 @@
 ---
-title: "Crochet Baby Bear Booties: Easy Animal Shoes"
+title: "Crochet Baby Bear Booties: Easy Animal Shoes — Design Guide"
 description: "Bear booties need three recognizable details: a rounded toe, two small ears and a flat embroidered face."
 category: wearables
 difficulty: Easy
@@ -11,6 +11,9 @@ image: "/images/patterns/real/crochet-baby-bear-booties.jpg"
 imageAlt: "Pair of tan crochet baby booties with round bear ears and embroidered faces"
 updated: 2026-10-04
 ---
+
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
 
 Bear booties need three recognizable details: a rounded toe, two small ears and a flat embroidered face. Plan those details around a plain ankle-boot shape so the decoration does not interfere with the fit. This is a design and assembly guide; use a size-specific bootie pattern for the sole and upper stitch counts.
 

@@ -19,20 +19,20 @@ const displayFont = Fraunces({
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
-    default: "Chtatou — Free Crochet Patterns & Tutorials",
+    default: "Chtatou — Free Crochet Patterns & Guides",
     template: "%s | Chtatou",
   },
   description:
-    "Free crochet patterns for amigurumi, wearables, bags, blankets, and home decor, plus a beginner-friendly guide to reading patterns.",
+    "Free crochet patterns, design guides, and tutorials for amigurumi, wearables, bags, blankets, and home decor.",
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
     siteName: "Chtatou",
-    title: "Chtatou — Free Crochet Patterns & Tutorials",
+    title: "Chtatou — Free Crochet Patterns & Guides",
     description:
-      "Free crochet patterns for amigurumi, wearables, bags, blankets, and home decor, plus a beginner-friendly guide to reading patterns.",
+      "Free crochet patterns, design guides, and tutorials for amigurumi, wearables, bags, blankets, and home decor.",
   },
   twitter: {
     card: "summary_large_image",

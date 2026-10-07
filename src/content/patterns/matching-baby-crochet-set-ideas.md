@@ -11,6 +11,9 @@ hookSize: "3.5-5.0mm"
 estimatedTime: "Varies by set"
 ---
 
+> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
+
+
 Baby crochet projects become even more special when several pieces are designed to work together. A matching hat, pair of booties, and blanket can turn simple individual patterns into a coordinated handmade gift set.
 
 ## What to Include in a Baby Crochet Set
