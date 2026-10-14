@@ -1,6 +1,6 @@
 ---
-title: "Crochet Witch Hat Guide (Easy Halloween Mini Hat Decor)"
-description: "Free crochet witch hat pattern — a mini decorative hat with a bent tip and hat band, perfect for Halloween wreaths, garlands, or topping a pumpkin display."
+title: "Crochet Witch Hat Pattern (Easy Halloween Mini Hat Decor)"
+description: "A complete mini crochet witch hat pattern with a pointed cone, brim, contrasting band, and decorative finishing ideas."
 category: "home-decor"
 difficulty: "Easy"
 date: "2026-09-16"
@@ -10,9 +10,6 @@ yarnWeight: "Worsted (Size 4)"
 hookSize: "4.0mm (G-6)"
 estimatedTime: "1-2 hours"
 ---
-
-> **Design guide:** This article explains construction and styling choices. It is not a complete stitch-by-stitch pattern; use a numbered pattern suited to your measurements when making the project.
-
 
 This mini witch hat is one of the quickest Halloween makes you can do — one small cone, a flat brim, and a contrasting hat band. Use it to top a pumpkin, sew it onto an amigurumi character, hang it on a wreath, or add a loop and turn it into an ornament.
 
