@@ -1,5 +1,5 @@
 ---
-title: "Six Day Star Blanket Crochet Guide Guide"
+title: "Six Day Star Blanket Crochet Guide"
 description: "The 6-Day Star Blanket is a design by Betty McKnit."
 category: home-decor
 difficulty: Intermediate
