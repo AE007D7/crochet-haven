@@ -1,5 +1,5 @@
 ---
-title: "Granny Hexagon Cardigan Crochet Guide Guide"
+title: "Granny Hexagon Cardigan Crochet Guide"
 description: "A granny hexagon cardigan uses two expanding hexagons that fold into the two halves of a garment."
 category: wearables
 difficulty: Intermediate
