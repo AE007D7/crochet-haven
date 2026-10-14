@@ -1,5 +1,5 @@
 ---
-title: "Crochet Pumpkin Home Decor: Easy Fall Guide Guide"
+title: "Crochet Pumpkin Home Decor: Easy Fall Crochet Guide"
 description: "Crochet pumpkins get their shape from a gathered fabric tube and strands that divide the stuffed body into lobes."
 category: home-decor
 difficulty: Easy
